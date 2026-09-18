@@ -1301,6 +1301,550 @@
    "html": "These <strong>free and low-cost resources</strong> can help you <strong>stay healthy without breaking the bank</strong>. Start searching today!"
   }
  ],
+ "80242803": [
+  {
+   "type": "paragraph",
+   "html": "Even if you have insurance, medical expenses can pile up fast. But <strong>there are grants and assistance programs</strong> that can help cover out-of-pocket costs, prescription drugs, co-pays, and even living expenses while you're sick."
+  },
+  {
+   "type": "paragraph",
+   "html": "This lesson will guide you to <strong>nonprofit and government programs</strong> that provide <strong>free financial assistance</strong> for medical costs."
+  },
+  {
+   "type": "paragraph",
+   "html": "These programs are part of the <strong>\"giving economy\"</strong>—a network of government offices and nonprofit organizations that distribute funds <strong>for free</strong>. Unlike companies you might find through Google, these organizations exist to <strong>help you</strong>, not to charge you."
+  },
+  {
+   "type": "heading",
+   "text": "Contact These Key Organizations for Health Care Financial Assistance"
+  },
+  {
+   "type": "heading",
+   "text": "Apply for Grants to Cover Medical Expenses"
+  },
+  {
+   "type": "paragraph",
+   "html": "Many programs offer <strong>grants to help pay for treatments, prescriptions, and other health-related expenses</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>GOOD DAYS</strong> <a href=\"https://mygooddays.org/patients/how-to-apply/\" target=\"_blank\" rel=\"noopener\"><strong>Website</strong></a> | Covers medical expenses <strong>not paid by insurance</strong> (Income eligibility up to $160,000)."
+    },
+    {
+     "html": "<strong>PAN FOUNDATION</strong> <a href=\"https://www.panfoundation.org/resources/patient-assistance-organizations/\" target=\"_blank\" rel=\"noopener\"><strong>Website</strong></a> | It covers <strong>out-of-pocket</strong> prescription drug costs."
+    },
+    {
+     "html": "<strong>PATIENT ADVOCATE CO-PAY RELIEF</strong> <a href=\"https://www.patientadvocate.org/connect-with-services/copay-relief/\" target=\"_blank\" rel=\"noopener\"><strong>Website</strong></a> | Offers <strong>grants</strong> for <strong>insurance co-pays</strong> when visiting doctors or hospitals."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Get One-on-One Help Managing Your Medical Bills"
+  },
+  {
+   "type": "paragraph",
+   "html": "If you're struggling with medical bills, these services <strong>offer free case management</strong> to help reduce costs and navigate insurance issues."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>PATIENT ADVOCATE CASE MANAGEMENT</strong> <a href=\"https://www.patientadvocate.org/connect-with-services/case-management-services-and-carelines/\" target=\"_blank\" rel=\"noopener\"><strong>Website</strong></a> | One-on-one case management to <strong>fight</strong> high medical bills."
+    },
+    {
+     "html": "<strong>INSURANCE DENIALS &amp; APPEALS</strong> <a href=\"https://www.patientadvocate.org/connect-with-services/case-management-services-and-carelines/\" target=\"_blank\" rel=\"noopener\"><strong>Website</strong></a> | Free assistance to <strong>appeal</strong> an insurance <strong>denial</strong> or unfair medical billing."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Get Financial Assistance for Living Expenses While Sick"
+  },
+  {
+   "type": "paragraph",
+   "html": "If you're too sick to work, you may qualify for <strong>help covering rent, utilities, and other essentials</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>FINANCIAL RESOURCE DIRECTORY</strong> <a href=\"https://www.patientadvocate.org/explore-our-resources/national-financial-resource-directory/\" target=\"_blank\" rel=\"noopener\"><strong>Website</strong></a> | Find <strong>50-100 local sources</strong> of financial support while ill."
+    },
+    {
+     "html": "<strong>HELP FOR CAREGIVERS</strong> <a href=\"https://www.patientadvocate.org/explore-our-resources/maintaining-employment-employment-benefits/working-while-being-a-caregiver/\" target=\"_blank\" rel=\"noopener\"><strong>Website</strong></a> | Provides financial support for <strong>family caregivers</strong> who must take time off work."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Disease-Specific Grants & Financial Assistance"
+  },
+  {
+   "type": "paragraph",
+   "html": "Some organizations provide <strong>funding specifically for people with chronic or serious conditions</strong> like cancer, diabetes, asthma, and rare diseases."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>PAN FOUNDATION</strong> <a href=\"https://fundfinder.panfoundation.org/Home/Funds/\" target=\"_blank\" rel=\"noopener\"><strong>Website</strong></a> | Search for <strong>disease-specific financial aid programs</strong>."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Find a Support Group for Your Condition"
+  },
+  {
+   "type": "paragraph",
+   "html": "Support groups can connect you with <strong>others facing similar challenges</strong>, as well as additional financial resources."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>FIND A HEALTH SUPPORT GROUP</strong> <a href=\"https://connect.mayoclinic.org/groups/?search=cancer\" target=\"_blank\" rel=\"noopener\"><strong>Website</strong></a> | Search for <strong>thousands of health-related support groups</strong>."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Additional Organizations Offering Free Money & Help"
+  },
+  {
+   "type": "paragraph",
+   "html": "If the above organizations <strong>don’t have funds</strong>, try these additional <strong>nonprofits</strong>:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://accessiahealth.org/\" target=\"_blank\" rel=\"noopener\"><strong>Accessia Health</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://tafcares.org/\" target=\"_blank\" rel=\"noopener\"><strong>TAF Cares</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.cancercare.org/\" target=\"_blank\" rel=\"noopener\"><strong>CancerCare</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.healthwellfoundation.org/\" target=\"_blank\" rel=\"noopener\"><strong>HealthWell Foundation</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.lls.org/\" target=\"_blank\" rel=\"noopener\"><strong>Leukemia &amp; Lymphoma Society (LLS)</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://rarediseases.org/\" target=\"_blank\" rel=\"noopener\"><strong>National Organization for Rare Disorders</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "TIP: How to Approach These Organizations"
+  },
+  {
+   "type": "tip",
+   "html": "<strong>CALL FIRST</strong>: Most grants require direct contact before applying. Call and explain your medical expenses."
+  },
+  {
+   "type": "tip",
+   "html": "<strong>BE PERSISTENT</strong>: If one program is out of funds, keep asking—there are <strong>many organizations</strong> to help."
+  },
+  {
+   "type": "warning",
+   "html": "<strong>AVOID GOOGLE SCAMS</strong>: For-profit companies may charge fees for grant applications—stick to <strong>nonprofit and government-backed resources</strong>."
+  },
+  {
+   "type": "heading",
+   "text": "START CALLING & APPLYING NOW!"
+  },
+  {
+   "type": "heading",
+   "text": "Key Resources for Getting Financial Help for Medical Costs"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Grants for Medical Bills – Good Days",
+     "href": "https://mygooddays.org/patients/how-to-apply/"
+    },
+    {
+     "label": "Prescription Drug Grants – PAN Foundation",
+     "href": "https://www.panfoundation.org/resources/patient-assistance-organizations/"
+    },
+    {
+     "label": "Co-Pay Assistance – Patient Advocate Co-Pay Relief",
+     "href": "https://www.patientadvocate.org/connect-with-services/copay-relief/"
+    },
+    {
+     "label": "One-on-One Medical Bill Help – Patient Advocate Case Management",
+     "href": "https://www.patientadvocate.org/connect-with-services/case-management-services-and-carelines/"
+    },
+    {
+     "label": "Financial Aid While Sick – Financial Resource Directory",
+     "href": "https://www.patientadvocate.org/explore-our-resources/national-financial-resource-directory/"
+    },
+    {
+     "label": "Help for Caregivers – Caregiver Assistance",
+     "href": "https://www.patientadvocate.org/explore-our-resources/maintaining-employment-employment-benefits/working-while-being-a-caregiver/"
+    },
+    {
+     "label": "Disease-Specific Grants – PAN Fund Finder",
+     "href": "https://fundfinder.panfoundation.org/Home/Funds/"
+    },
+    {
+     "label": "Find a Support Group – Mayo Clinic Groups",
+     "href": "https://connect.mayoclinic.org/groups/?search=cancer"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "If you’re struggling with medical costs, <strong>these financial aid programs can provide relief</strong>. <strong>Start applying today!</strong>"
+  }
+ ],
+ "80957140": [
+  {
+   "type": "paragraph",
+   "html": "Even if you have existing medical debt, <strong>you may not need to pay all of it</strong>. Many people don’t realize that <strong>hospitals, insurance companies, and laws</strong> offer ways to <strong>erase, lower, or dispute medical charges</strong>—but you have to know where to look."
+  },
+  {
+   "type": "heading",
+   "text": "Strategies to Lower or Erase Medical Debt"
+  },
+  {
+   "type": "heading",
+   "text": "1. Hospital Bill Forgiveness – You Must Ask"
+  },
+  {
+   "type": "paragraph",
+   "html": "Most hospitals have <strong>charity care programs</strong> that <strong>forgive medical debt</strong>—but they won’t offer it unless you ask. Studies show that <strong>78% of people eligible for bill forgiveness don’t know about it</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"http://DollarFor.org/\" target=\"_blank\" rel=\"noopener\"><strong>Dollar For</strong></a> | Helps you apply for <strong>hospital debt forgiveness</strong> based on income."
+    },
+    {
+     "html": "<a href=\"https://www.youtube.com/watch?v=XRUPZXah1UQ\" target=\"_blank\" rel=\"noopener\"><strong>More Info</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "2. Avoid Surprise Emergency Room Bills"
+  },
+  {
+   "type": "paragraph",
+   "html": "If you receive an unexpected <strong>ER bill</strong>, you may not have to pay it. A <strong>federal law protects you</strong>, but hospitals don’t always apply it automatically."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"http://CMS.gov/nosurprises\" target=\"_blank\" rel=\"noopener\"><strong>CMS No Surprises</strong></a> | Learn how to dispute <strong>surprise medical bills</strong>."
+    },
+    {
+     "html": "<strong>No Surprises Help Desk: 1-800-985-3059</strong>"
+    },
+    {
+     "html": "<a href=\"https://www.youtube.com/watch?v=shceW5ydqAQ\" target=\"_blank\" rel=\"noopener\"><strong>More Info</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "3. Use Crowdfunding to Cover Medical Costs"
+  },
+  {
+   "type": "paragraph",
+   "html": "Many people raise money for medical expenses through <strong>crowdfunding platforms</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.crowdcrux.com/top-personal-fundraising-websites/\" target=\"_blank\" rel=\"noopener\"><strong>Best Crowdfunding Sites</strong></a> | Find platforms that help raise funds for medical bills."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "4. Erase Medical Debt for Just $1"
+  },
+  {
+   "type": "paragraph",
+   "html": "Medical debt is often <strong>sold for pennies on the dollar</strong> to collection agencies. Some nonprofits <strong>buy this debt and forgive it instead of collecting it</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"http://UndueMedicalDebt.org/\" target=\"_blank\" rel=\"noopener\"><strong>Undue Medical Debt</strong></a> | Check if your debt qualifies for <strong>cancellation</strong>."
+    },
+    {
+     "html": "<a href=\"https://www.youtube.com/watch?v=LjCck_7FYPE\" target=\"_blank\" rel=\"noopener\"><strong>More Info</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "5. Get Free Hearing Aids, Glasses, and Eye Care"
+  },
+  {
+   "type": "paragraph",
+   "html": "Since <strong>vision, dental, and hearing care</strong> aren’t always covered by insurance, these programs provide financial help."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://docs.google.com/document/d/1ELhZ-1yQDwpFxfYZX3Bp94OrqFpjyy904S6GIJ0G3us/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\"><strong>Financial Assistance for Hearing Aids, Glasses, and Eye Care</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "6. How to Dispute Medical Bills & Avoid Overcharges"
+  },
+  {
+   "type": "paragraph",
+   "html": "Many hospital bills contain <strong>errors or inflated charges</strong>. Before paying, <strong>always check and dispute charges</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.kalw.org/show/your-call/2021-09-23/never-pay-the-first-bill\" target=\"_blank\" rel=\"noopener\"><strong>How to Fight the Health Care System &amp; Win</strong></a> | Learn why you should <strong>never</strong> pay the first medical bill you receive."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "7. Small Claims Court Can Wipe Out Your Medical Debt"
+  },
+  {
+   "type": "paragraph",
+   "html": "If a hospital <strong>sues you for unpaid bills</strong>, you may be able to <strong>win in small claims court</strong>. Many large healthcare providers <strong>don’t show up</strong>, and cases get dismissed."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.kalw.org/show/your-call/2021-09-23/never-pay-the-first-bill\" target=\"_blank\" rel=\"noopener\"><strong>More Info on Disputing Bills</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "8. Get Grants for Veterinary Bills & Pet Food"
+  },
+  {
+   "type": "paragraph",
+   "html": "Vet bills can be just as expensive as human medical bills. There are <strong>grants and nonprofit programs</strong> that provide <strong>free pet care</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://docs.google.com/document/d/19Idh8N9skY-gOJD_Xqr4nd3QSgHu8HEm9obAh_qn1jE/edit?usp=drive_link\" target=\"_blank\" rel=\"noopener\"><strong>Vet &amp; Pet Assistance</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Start Taking Action Today"
+  },
+  {
+   "type": "heading",
+   "text": "Key Resources for Reducing or Eliminating Medical Debt"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Hospital Bill Forgiveness – Dollar For",
+     "href": "http://DollarFor.org/"
+    },
+    {
+     "label": "Surprise Medical Bill Protection – CMS No Surprises",
+     "href": "http://CMS.gov/nosurprises"
+    },
+    {
+     "label": "Crowdfunding for Medical Expenses – Best Fundraising Sites",
+     "href": "https://www.crowdcrux.com/top-personal-fundraising-websites/"
+    },
+    {
+     "label": "Erase Medical Debt for $1 – Undue Medical Debt",
+     "href": "http://UndueMedicalDebt.org/"
+    },
+    {
+     "label": "Free Hearing Aids, Glasses & Eye Care – Assistance List",
+     "href": "https://docs.google.com/document/d/1ELhZ-1yQDwpFxfYZX3Bp94OrqFpjyy904S6GIJ0G3us/edit?usp=sharing"
+    },
+    {
+     "label": "How to Negotiate & Dispute Medical Bills – Medical Billing Advice",
+     "href": "https://www.kalw.org/show/your-call/2021-09-23/never-pay-the-first-bill"
+    },
+    {
+     "label": "Grants for Vet Bills & Pet Food – Vet & Pet Assistance",
+     "href": "https://docs.google.com/document/d/19Idh8N9skY-gOJD_Xqr4nd3QSgHu8HEm9obAh_qn1jE/edit?usp=drive_link"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>No Surprises Help Desk: 1-800-985-3059</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "These <strong>8 strategies can help you legally reduce or erase medical debt</strong>. Start using them today!"
+  }
+ ],
+ "80957182": [
+  {
+   "type": "paragraph",
+   "html": "Dental care can be expensive, and many insurance plans don’t cover essential treatments. However, <strong>there are free and low-cost options available</strong>—you just need to know where to look. This guide will help you <strong>find grants, free clinics, and volunteer dental programs</strong> that provide affordable care."
+  },
+  {
+   "type": "heading",
+   "text": "How to Find Free & Low-Cost Dental Services"
+  },
+  {
+   "type": "heading",
+   "text": "1. Avoid Dental Grant Scams—Find Real Free Care"
+  },
+  {
+   "type": "paragraph",
+   "html": "Some dentists advertise \"dental grants\" that still leave you with <strong>huge bills</strong>. Learn how to find <strong>100% free dental work</strong> instead."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.youtube.com/watch?v=NpodnswV-F0&amp;t=31s\" target=\"_blank\" rel=\"noopener\"><strong>Beware of Dental Grant Scams</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "2. Search for Free & Low-Cost Clinics on NeedyMeds"
+  },
+  {
+   "type": "paragraph",
+   "html": "NeedyMeds provides a <strong>nationwide directory of free and low-cost dental clinics</strong>. Enter your ZIP code to find <strong>dental services near you</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://loom.com/share/101a2b5776404f3ea28eac59d6ba4ec7\" target=\"_blank\" rel=\"noopener\"><strong>Find Free Dental Care via NeedyMeds</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "3. Access Free State-Specific Dental Grants"
+  },
+  {
+   "type": "paragraph",
+   "html": "Many states offer <strong>grants and low-cost dental programs</strong>, especially through <strong>university dental schools</strong> and nonprofit organizations."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://loom.com/share/5b675ba308e54c0298729e896aee7897\" target=\"_blank\" rel=\"noopener\"><strong>Find State-Specific Dental Grants</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "4. Free Dental Care for Adults—Hidden Programs"
+  },
+  {
+   "type": "paragraph",
+   "html": "Some nonprofit organizations and community clinics provide <strong>free dental services for adults</strong>, including <strong>fillings, extractions, and cleanings</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.youtube.com/watch?v=VEoIsPVzqjU\" target=\"_blank\" rel=\"noopener\"><strong>Free Dental Care for Adults</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "5. Apply for Free Dental Services Through Dental LifeLine"
+  },
+  {
+   "type": "paragraph",
+   "html": "Dental LifeLine connects <strong>volunteer dentists</strong> with patients in need. Check if you qualify for <strong>free treatment</strong> in your state."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://dentallifeline.org/our-state-programs/\" target=\"_blank\" rel=\"noopener\"><strong>Apply for Free Dental Care via Dental LifeLine</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "6. Government Dental Assistance—Never Pay Over $50"
+  },
+  {
+   "type": "paragraph",
+   "html": "If your <strong>income is under $100,000</strong>, you may qualify for government programs that <strong>cap dental costs at $50 for major treatments</strong> like <strong>fillings, root canals, and crowns</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.youtube.com/watch?v=JdCDIg0rgbA\" target=\"_blank\" rel=\"noopener\"><strong>Gov't Dental Assistance Program</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Key Resources for Affordable Dental Care"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Find Free Dental Clinics – NeedyMeds Dental Services",
+     "href": "https://loom.com/share/101a2b5776404f3ea28eac59d6ba4ec7"
+    },
+    {
+     "label": "Apply for State Dental Grants – State-Specific Grants",
+     "href": "https://loom.com/share/5b675ba308e54c0298729e896aee7897"
+    },
+    {
+     "label": "Get Free Dental Care for Adults – Hidden Dental Programs",
+     "href": "https://www.youtube.com/watch?v=VEoIsPVzqjU"
+    },
+    {
+     "label": "Apply for Dental LifeLine Services – Dental LifeLine",
+     "href": "https://dentallifeline.org/our-state-programs/"
+    },
+    {
+     "label": "Learn About Government Dental Assistance – Never Pay Over $50",
+     "href": "https://www.youtube.com/watch?v=JdCDIg0rgbA"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "If you need <strong>affordable or free dental care</strong>, start by exploring these resources. <strong>With persistence and the right information, you can get the care you need without breaking the bank.</strong>"
+  }
+ ],
  "83136879": [
   {
    "type": "paragraph",
