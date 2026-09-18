@@ -108,6 +108,12 @@ def build_catalogue():
                 })
     return items
 
+def load_bodies():
+    path = os.path.join(SRC, 'post_bodies.json')
+    return load_json(path) if os.path.exists(path) else {}
+
+BODIES = None
+
 def library_data(lib, items):
     """Select and enrich the items of one library; attach its Drive PDFs."""
     drive = {d['code']: d for d in load_json(os.path.join(SRC, lib['driveListing']))} if lib.get('driveListing') else {}
@@ -135,6 +141,7 @@ def library_data(lib, items):
             it['download'] = it['drive'][0]['viewUrl']; it['preview'] = it['drive'][0].get('previewUrl')
         else:
             it['download'] = None; it['preview'] = None
+        it['body'] = BODIES.get(it['id']) or None
         it['isLesson'] = it['id'] in lib.get('lessons', {})
         it['lessonNo'] = lib.get('lessons', {}).get(it['id'])
         out.append(it)
@@ -274,6 +281,8 @@ def single_file(data_js, title, mark=None, placeholder=None):
     return page
 
 def main():
+    global BODIES
+    BODIES = load_bodies()
     items = build_catalogue()
     with open(os.path.join(ROOT, 'data', 'guides.json'), 'w', encoding='utf-8') as f:
         json.dump({'generated': datetime.date.today().isoformat(), 'topics': [{'key': k, 'label': l} for k, l in TOPICS], 'items': items}, f, ensure_ascii=False, indent=1)
@@ -285,7 +294,8 @@ def main():
             open(os.path.join(ROOT, 'data', 'guides.js'), 'w', encoding='utf-8').write(data_js)
         out_dir = os.path.join(ROOT, 'dist', lib['key']); os.makedirs(out_dir, exist_ok=True)
         open(os.path.join(out_dir, 'index.html'), 'w', encoding='utf-8').write(single_file(data_js, 'Lesko Help ' + lib['title'], brand_mark_html(lib), lib.get('searchPlaceholder')))
-        extra = (f", {sum(i.get('entryCount', 0) for i in data['items'])} links" if lib.get('stateReports') else '')
+        extra = (f", {sum(i.get('entryCount', 0) for i in data['items'])} links" if lib.get('stateReports')
+                 else f", {sum(1 for i in data['items'] if i.get('body'))} with text")
         print(f"{lib['key']:10} {len(data['items']):3} items, {sum(1 for i in data['items'] if i['download'])} with PDFs, {sum(1 for i in data['items'] if i['isLesson'])} lessons{extra} -> dist/{lib['key']}/index.html")
 
 if __name__ == '__main__':

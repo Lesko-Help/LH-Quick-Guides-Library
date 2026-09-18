@@ -34,6 +34,8 @@ any static host). No build step is needed for the site itself.
 | `data/source/` | Raw export from the community: coursework manifest, per-space post details, Google Drive folder listing |
 | `data/source/state_reports.json` | The state-by-state report index and the links extracted from each of the six reports per state |
 | `scripts/merge_state_reports.py` | Merges the per-state extraction files into `data/source/state_reports.json` |
+| `data/source/post_bodies.json` | The written content of every community lesson and quick guide, as structured blocks |
+| `scripts/merge_post_bodies.py` | Merges the recovered post bodies and sanitises their markup down to links, bold and italics |
 | `brand/` | The Lesko Help icons, one per library, inlined into the top bar at build time |
 | `data/INVENTORY.md` | Human-readable inventory of every space, series and guide, including gaps and content issues |
 | `scripts/build_data.py` | Rebuilds `data/guides.*` from `data/source/` |
@@ -47,6 +49,14 @@ any static host). No build step is needed for the site itself.
 
 Topic mapping (which community section lands in which topic chip) lives at the
 top of `scripts/build_data.py`.
+
+## Lesson text
+
+Each community post carries written content: steps, tips, warnings and links.
+`data/source/post_bodies.json` holds it as blocks (paragraph, heading, list,
+steps, tip, warning, resources) with inline markup limited to links, bold and
+italics. The viewer shows the video and that text together; the PDF, where there
+is one, sits on its own tab.
 
 ## The state library
 

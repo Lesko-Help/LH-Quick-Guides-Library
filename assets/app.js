@@ -54,7 +54,7 @@
   function save() { try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) { /* private mode */ } }
 
   /* ---------- state ---------- */
-  const state = { tab: 'library', topic: null, q: '', open: null, listIds: [], stage: 'video' };
+  const state = { tab: 'library', topic: null, q: '', open: null, listIds: [], stage: 'read' };
 
   /* ---------- helpers ---------- */
   const $ = (sel, root) => (root || document).querySelector(sel);
@@ -102,8 +102,9 @@
       if (terms.length) {
         const hay = it._hay || (it._hay = [it.title, it.summary, it.series, TOPIC_BY_KEY[it.topic]?.label,
           ...(it.links || []).map(l => l.label + ' ' + host(l.href)),
-          ...(it.sections || []).flatMap(sec => [sec.label, ...sec.entries.map(e => e.title + ' ' + e.note)])
-          ].join(' ').toLowerCase());
+          ...(it.sections || []).flatMap(sec => [sec.label, ...sec.entries.map(e => e.title + ' ' + e.note)]),
+          ...(it.body || []).map(b => b.text || b.html || (b.items || []).map(i => i.html || i.label || '').join(' '))
+          ].join(' ').replace(/<[^>]+>/g, ' ').toLowerCase());
         if (!terms.every(t => hay.includes(t))) return false;
       }
       return true;
@@ -169,6 +170,24 @@
     renderInto($('#grid'), items, `<div class="empty"><h3>${state.topic === 'bookmarked' ? 'No bookmarks yet.' : 'Nothing matches.'}</h3><p>${state.topic === 'bookmarked' ? 'Tap the star on any guide and it will show up here.' : 'Try fewer words or pick another topic.'}</p></div>`);
   }
   /* ---------- viewer ---------- */
+  /* the written part of a lesson or guide, recovered from the community post */
+  function bodyHTML(blocks) {
+    return blocks.map(b => {
+      if (b.type === 'heading') return `<h4 class="lb-h">${esc(b.text)}</h4>`;
+      if (b.type === 'paragraph') return `<p class="lb-p">${b.html}</p>`;
+      if (b.type === 'list') return `<ul class="lb-ul">${b.items.map(i => `<li>${i.html}</li>`).join('')}</ul>`;
+      if (b.type === 'steps') return `<ol class="lb-steps">${b.items.map((i, n) => `<li>
+          <span class="lb-num">${n + 1}</span>
+          <div>${i.label ? `<span class="lb-label">${esc(i.label)}</span>` : ''}${i.html}</div>
+        </li>`).join('')}</ol>`;
+      if (b.type === 'tip') return `<div class="lb-note tip"><span class="lb-badge">Tip</span><p>${b.html}</p></div>`;
+      if (b.type === 'warning') return `<div class="lb-note warn"><span class="lb-badge">Watch out</span><p>${b.html}</p></div>`;
+      if (b.type === 'resources') return `<div class="lb-res"><h4 class="lb-h">Go straight there</h4>
+        <p class="lb-chips">${b.items.map(i => `<a href="${esc(i.href)}" target="_blank" rel="noopener">${esc(i.label)}${ICON.ext}</a>`).join('')}</p></div>`;
+      return '';
+    }).join('');
+  }
+
   function entryHTML(it, sec, e, n, mark) {
     const key = entryKey(sec, e);
     const on = !!savedMap(it.id)[key];
@@ -212,18 +231,29 @@
 
   function stageHTML(it) {
     if (it.sections) return linksPageHTML(it);
+    const hasRead = !!(it.body && it.body.length);
     const tabs = [];
-    if (it.hasVideo) tabs.push(['video', 'Video']);
+    if (it.hasVideo || hasRead) tabs.push(['read', it.hasVideo && hasRead ? 'Video and steps' : (it.hasVideo ? 'Video' : 'Read')]);
     if (it.preview) tabs.push(['pdf', 'PDF']);
     if (!tabs.some(t => t[0] === state.stage)) state.stage = tabs.length ? tabs[0][0] : 'none';
     let media;
-    if (state.stage === 'pdf') media = `<div class="media"><iframe src="${esc(it.preview)}" title="${esc(it.title)} PDF" allow="fullscreen"></iframe></div>`;
-    else if (state.stage === 'video') media = `<div class="media video"><iframe src="${esc(it.video)}" title="${esc(it.title)} video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`;
-    else media = `<div class="media empty"><div><p>This lesson has no PDF yet.</p><a class="btn small" href="${esc(it.url)}" target="_blank" rel="noopener">Read it in the community ${ICON.ext}</a></div></div>`;
+    if (state.stage === 'pdf') {
+      media = `<div class="media"><iframe src="${esc(it.preview)}" title="${esc(it.title)} PDF" allow="fullscreen"></iframe></div>`;
+    } else if (state.stage === 'read') {
+      media = `<div class="lesson">
+        ${it.hasVideo ? `<div class="lesson-video"><iframe src="${esc(it.video)}" title="${esc(it.title)} video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></div>` : ''}
+        ${hasRead ? `<div class="lesson-text">${bodyHTML(it.body)}</div>`
+          : `<div class="lesson-text"><p class="lb-p">This lesson is the video above.</p></div>`}
+      </div>`;
+    } else {
+      media = `<div class="media empty"><div><p>Nothing to show for this one yet.</p>
+        <a class="btn small" href="${esc(it.url)}" target="_blank" rel="noopener">Open it in the community ${ICON.ext}</a></div></div>`;
+    }
     return `${tabs.length > 1 ? `<div class="stage-tabs">${tabs.map(([k, l]) => `<button type="button" data-stage="${k}" aria-pressed="${state.stage === k}">${l}</button>`).join('')}</div>` : ''}
       ${media}
       ${state.stage === 'pdf' ? `<div class="stage-note">If the preview stays blank, use Download PDF at the top.</div>` : ''}`;
   }
+
   function openGuide(id, push) {
     const it = byId[id]; if (!it) return;
     state.open = id;
@@ -247,7 +277,7 @@
     const v = $('#viewer'), scrim = $('#scrim');
     v.classList.remove('open'); scrim.classList.remove('open');
     setTimeout(() => { v.hidden = true; scrim.hidden = true; $('#viewer-body').innerHTML = ''; }, 200);
-    state.open = null; state.stage = 'video';
+    state.open = null; state.stage = 'read';
     document.body.style.overflow = '';
     history.replaceState(null, '', location.pathname + location.search);
     refresh();
@@ -313,7 +343,7 @@
       const act = a.dataset.action;
       if (act === 'home') { e.preventDefault(); state.topic = null; setTab('library'); refresh(); }
       if (act === 'close') closeViewer();
-      if (act === 'prev' || act === 'next') { const idx = state.listIds.indexOf(state.open); const nid = state.listIds[idx + (act === 'next' ? 1 : -1)]; if (nid) { state.stage = 'video'; openGuide(nid); } }
+      if (act === 'prev' || act === 'next') { const idx = state.listIds.indexOf(state.open); const nid = state.listIds[idx + (act === 'next' ? 1 : -1)]; if (nid) { state.stage = 'read'; openGuide(nid); } }
       return;
     }
     const tp = e.target.closest('[data-topic]'); if (tp) { state.topic = tp.dataset.topic || null; refresh(); return; }
@@ -325,7 +355,7 @@
     if (jp) { document.getElementById('sec-' + jp.dataset.jump)?.scrollIntoView({ block: 'start', behavior: 'smooth' }); return; }
     const sg = e.target.closest('[data-stage]'); if (sg) { state.stage = sg.dataset.stage; const it = byId[state.open]; if (it) $('#stage').innerHTML = stageHTML(it); return; }
     const ck = e.target.closest('[data-check]'); if (ck) { toggleCheck(state.open, ck.dataset.check, ck); return; }
-    const op = e.target.closest('[data-open]'); if (op) { state.stage = 'video'; openGuide(op.dataset.open); return; }
+    const op = e.target.closest('[data-open]'); if (op) { state.stage = 'read'; openGuide(op.dataset.open); return; }
     if (e.target.id === 'scrim') closeViewer();
   });
   document.addEventListener('keydown', e => {

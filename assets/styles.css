@@ -152,6 +152,42 @@ input, textarea, select { font: inherit; color: inherit; }
 .group-label .swatch { width: 26px; height: 26px; border-radius: 50%; background: var(--grad); color: #fff; display: grid; place-items: center; }
 .group-label .swatch svg { width: 15px; height: 15px; }
 
+/* ---------- a lesson: the video, then the written steps ---------- */
+.lesson { flex: 1; min-height: 0; overflow-y: auto; background: #F3F8FB; padding: 18px clamp(12px, 2vw, 20px) 36px; }
+.lesson-video { position: relative; width: 100%; max-width: 780px; margin: 0 auto; aspect-ratio: 16 / 9; max-height: 400px; background: #0B1220; }
+.lesson-video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; display: block; }
+.lesson-text { max-width: 74ch; margin: 0 auto; padding: 24px clamp(16px, 3vw, 28px) 0; }
+.lb-h { font-size: 13px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: var(--accent-ink); margin: 26px 0 8px; }
+.lb-h:first-child { margin-top: 0; }
+.lb-p { font-size: 15px; line-height: 1.6; color: var(--text); margin: 10px 0; }
+.lesson-text a { color: var(--accent-ink); font-weight: 600; text-decoration: underline; text-underline-offset: 2px; }
+.lesson-text a:hover { text-decoration-thickness: 2px; }
+.lb-ul { margin: 10px 0; padding-left: 20px; display: grid; gap: 7px; }
+.lb-ul li { font-size: 15px; line-height: 1.55; color: var(--text); }
+.lb-ul li::marker { color: var(--accent); }
+.lb-steps { list-style: none; margin: 14px 0; padding: 0; display: grid; gap: 9px; }
+.lb-steps li { display: grid; grid-template-columns: 28px minmax(0, 1fr); gap: 13px; align-items: start;
+  background: #fff; border: 1px solid #DCE8EE; border-radius: 12px; padding: 13px 16px; font-size: 15px; line-height: 1.55; }
+.lb-num { width: 28px; height: 28px; border-radius: 50%; background: var(--accent); color: #fff;
+  font-size: 12px; font-weight: 700; display: grid; place-items: center; font-variant-numeric: tabular-nums; }
+.lb-label { display: block; font-size: 11.5px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: var(--accent-ink); margin-bottom: 3px; }
+.lb-note { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 12px; align-items: start; margin: 16px 0;
+  border-radius: 12px; padding: 13px 16px; font-size: 14.5px; line-height: 1.55; }
+.lb-note p { margin: 0; }
+.lb-badge { font-size: 11px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; border-radius: 999px; padding: 4px 10px; white-space: nowrap; }
+.lb-note.tip { background: #FFF8E1; color: #6B5200; }
+.lb-note.tip .lb-badge { background: #FDCC0A; color: #4A3800; }
+.lb-note.warn { background: #FFEFF0; color: #8A1C25; }
+.lb-note.warn .lb-badge { background: #F93946; color: #fff; }
+.lb-note a { color: inherit; }
+.lb-res { margin-top: 26px; padding-top: 18px; border-top: 1px solid var(--border); }
+.lb-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+.lb-chips a { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 600; text-decoration: none;
+  color: var(--accent-ink); background: var(--accent-soft); border: 1px solid transparent; border-radius: 999px; padding: 6px 13px; }
+.lb-chips a:hover { border-color: var(--accent); background: #fff; }
+.lb-chips svg { width: 12px; height: 12px; }
+@media (max-width: 640px) { .lesson-text { padding: 18px 16px 0; } .lb-steps li { grid-template-columns: 26px minmax(0,1fr); gap: 10px; padding: 12px 13px; } }
+
 /* ---------- the state links page inside the viewer ---------- */
 .links-page { flex: 1; min-height: 0; overflow-y: auto; padding: 18px clamp(14px, 3vw, 30px) 40px; background: #E7F1F6; }
 .lp-nav { display: flex; flex-wrap: wrap; gap: 8px; position: sticky; top: 0; z-index: 2; background: #E7F1F6; padding: 4px 0 14px; }
