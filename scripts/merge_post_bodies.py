@@ -75,7 +75,8 @@ def clean_inline(raw):
 
 
 def plain(raw):
-    return re.sub(r'<[^>]+>', '', clean_inline(raw)).strip()
+    """Plain text for fields the app escapes itself, so entities do not survive twice."""
+    return html.unescape(re.sub(r'<[^>]+>', '', clean_inline(raw))).strip()
 
 
 def count_links(blocks):

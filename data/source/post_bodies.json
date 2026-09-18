@@ -595,7 +595,7 @@
      "href": "https://www.sba.gov/local-assistance/resource-partners/veterans-business-outreach-center-vboc-program#id-find-your-local-veterans-business-outreach-center"
     },
     {
-     "label": "Grants for Women &amp; Minorities",
+     "label": "Grants for Women & Minorities",
      "href": "https://www.grants.gov"
     },
     {
@@ -704,7 +704,7 @@
  "80037998": [
   {
    "type": "heading",
-   "text": "How to Negotiate Your Debt &amp; Pay Less"
+   "text": "How to Negotiate Your Debt & Pay Less"
   },
   {
    "type": "paragraph",
@@ -735,7 +735,7 @@
   },
   {
    "type": "heading",
-   "text": "Call Your Creditors &amp; Make an Offer"
+   "text": "Call Your Creditors & Make an Offer"
   },
   {
    "type": "paragraph",
@@ -1113,6 +1113,194 @@
    ]
   }
  ],
+ "80242802": [
+  {
+   "type": "paragraph",
+   "html": "Getting the healthcare you need <strong>shouldn’t be overwhelming or expensive</strong>. The good news? There are <strong>thousands of free and low-cost clinics</strong> that provide <strong>medical, dental, mental health, and substance use care</strong>—you just need to know where to look."
+  },
+  {
+   "type": "paragraph",
+   "html": "This lesson will <strong>guide you to the best resources</strong> for accessing <strong>affordable health care options near you</strong>."
+  },
+  {
+   "type": "heading",
+   "text": "Find Free and Low-Cost Clinics Near You"
+  },
+  {
+   "type": "paragraph",
+   "html": "Many nonprofit organizations and government programs offer free or low-cost healthcare services. Here’s how to get started:"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "label": "Search",
+     "html": "Visit <a href=\"https://needymeds.org/healthcare-savings\" target=\"_blank\" rel=\"noopener\"><strong>NeedyMeds.org</strong></a> and explore their <strong>Healthcare Savings</strong> section to find <strong>medical clinics</strong>, <strong>dental clinics</strong>, <strong>mental health clinics</strong>, and <strong>substance use disorder clinics</strong>."
+    },
+    {
+     "label": "Locate",
+     "html": "Use the clinic directory to find options near you, and check their website for eligibility, services, and appointment availability."
+    },
+    {
+     "label": "Check email",
+     "html": "After reaching out, you’ll receive an email with appointment details for in-person, phone, or online consultations."
+    },
+    {
+     "label": "Gather information",
+     "html": "Organize your medical history, medications, and any questions about your health concerns before your appointment."
+    }
+   ]
+  },
+  {
+   "type": "tip",
+   "html": "Keep all medical records and documents in one folder for easy access."
+  },
+  {
+   "type": "heading",
+   "text": "Apply for Low-Cost or Free Health Insurance"
+  },
+  {
+   "type": "paragraph",
+   "html": "Even if you don’t think you qualify, <strong>4 out of 5 applicants find coverage for less than $10 per month</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Visit </strong><a href=\"https://www.healthcare.gov/\" target=\"_blank\" rel=\"noopener\"><strong>HealthCare.gov</strong></a> to explore affordable insurance plans."
+    },
+    {
+     "html": "<strong>Get Free Help</strong> | Find <strong>Navigators</strong> or <strong>Certified Application Counselors</strong> who assist with applications <strong>at no cost</strong>: <a href=\"https://www.healthcare.gov/help/whos-helping-me-complete-my-application/\" target=\"_blank\" rel=\"noopener\"><strong>Find Free Application Help</strong></a>."
+    }
+   ]
+  },
+  {
+   "type": "warning",
+   "html": "<strong>Avoid Agents &amp; Brokers</strong> | These professionals work for insurance companies and may <strong>only</strong> offer plans that benefit them."
+  },
+  {
+   "type": "heading",
+   "text": "Find Free Mental Health Support"
+  },
+  {
+   "type": "paragraph",
+   "html": "Mental health care is just as important as physical health. The government offers a <strong>judgment-free hotline</strong> to connect you with free or low-cost counselors:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Call 988</strong> | Speak with a counselor online or schedule an in-person appointment near you."
+    },
+    {
+     "html": "<strong>Visit </strong><a href=\"https://988lifeline.org/get-help/what-to-expect/\" target=\"_blank\" rel=\"noopener\"><strong>988Lifeline.org</strong></a> for more information."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Learn About Clinical Trials for Free Care"
+  },
+  {
+   "type": "paragraph",
+   "html": "If traditional healthcare isn’t working for you, <strong>clinical trials provide free access to cutting-edge treatments</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Explore </strong><a href=\"https://clinicaltrials.gov/about-site/about-ctg\" target=\"_blank\" rel=\"noopener\"><strong>ClinicalTrials.gov</strong></a> to find government-funded studies on new treatments and procedures. These can offer <strong>free treatment &amp; care</strong>, <strong>access to top specialists</strong>, and <strong>compensation for travel &amp; participation</strong>."
+    },
+    {
+     "html": "<strong>$50 billion is spent annually</strong> on clinical trials, providing free treatment by top doctors and researchers."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Understand Your Medicare Benefits"
+  },
+  {
+   "type": "paragraph",
+   "html": "If you’re on <strong>Medicare</strong>, new benefits and changes happen <strong>frequently</strong>. Free experts are available to help explain what you’re entitled to."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Call 877-839-2675</strong> to speak with a Medicare expert."
+    },
+    {
+     "html": "<strong>Visit </strong><a href=\"https://www.shiphelp.org/\" target=\"_blank\" rel=\"noopener\"><strong>SHIPHelp.org</strong></a> and find local Medicare advisors in your state."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Find Local Health Services in Your Area"
+  },
+  {
+   "type": "paragraph",
+   "html": "For more free healthcare services in your area:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Go to </strong><a href=\"https://findhelp.org/\" target=\"_blank\" rel=\"noopener\"><strong>FindHelp.org</strong></a><strong>:</strong> Enter your ZIP code and click the <strong>Health</strong> tab to see available options."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>There are over 215 sources of free healthcare in some areas—find out what’s available near you!</strong>"
+  },
+  {
+   "type": "heading",
+   "text": "Get Started Now"
+  },
+  {
+   "type": "heading",
+   "text": "Key Resources for Finding Low-Cost Health Care"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Find Free Clinics & Prescriptions – NeedyMeds",
+     "href": "https://needymeds.org/healthcare-savings"
+    },
+    {
+     "label": "Apply for Affordable Health Insurance – HealthCare.gov",
+     "href": "https://www.healthcare.gov/"
+    },
+    {
+     "label": "Find Free Application Help – Certified Navigators",
+     "href": "https://www.healthcare.gov/help/whos-helping-me-complete-my-application/"
+    },
+    {
+     "label": "Mental Health Support – 988 Lifeline (Call 988)",
+     "href": "https://988lifeline.org/get-help/what-to-expect/"
+    },
+    {
+     "label": "Find a Clinical Trial for Free Treatment – ClinicalTrials.gov",
+     "href": "https://clinicaltrials.gov/about-site/about-ctg"
+    },
+    {
+     "label": "Medicare Help & Benefits – SHIP Help (Call 877-839-2675)",
+     "href": "https://www.shiphelp.org/"
+    },
+    {
+     "label": "Find More Local Health Services – FindHelp.org",
+     "href": "https://findhelp.org/"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "These <strong>free and low-cost resources</strong> can help you <strong>stay healthy without breaking the bank</strong>. Start searching today!"
+  }
+ ],
  "83136879": [
   {
    "type": "paragraph",
@@ -1377,7 +1565,7 @@
   },
   {
    "type": "heading",
-   "text": "Industry Highlight: Food, Beverage &amp; Consumer Goods"
+   "text": "Industry Highlight: Food, Beverage & Consumer Goods"
   },
   {
    "type": "paragraph",
@@ -1478,7 +1666,7 @@
   },
   {
    "type": "heading",
-   "text": "Nike &amp; Jordan Brand"
+   "text": "Nike & Jordan Brand"
   },
   {
    "type": "paragraph",
@@ -1643,7 +1831,7 @@
   },
   {
    "type": "heading",
-   "text": "Loans &amp; Resources for Women-Owned Businesses"
+   "text": "Loans & Resources for Women-Owned Businesses"
   },
   {
    "type": "paragraph",
@@ -1703,7 +1891,7 @@
   },
   {
    "type": "heading",
-   "text": "Business Centers &amp; Support Services"
+   "text": "Business Centers & Support Services"
   },
   {
    "type": "paragraph",
@@ -1728,7 +1916,7 @@
   },
   {
    "type": "heading",
-   "text": "Grants &amp; Funding for Minority Entrepreneurs"
+   "text": "Grants & Funding for Minority Entrepreneurs"
   },
   {
    "type": "paragraph",
@@ -1786,7 +1974,7 @@
   },
   {
    "type": "heading",
-   "text": "Certification &amp; Business Identity"
+   "text": "Certification & Business Identity"
   },
   {
    "type": "paragraph",
@@ -1802,7 +1990,7 @@
   },
   {
    "type": "heading",
-   "text": "Industry-Specific Grants &amp; Opportunities"
+   "text": "Industry-Specific Grants & Opportunities"
   },
   {
    "type": "paragraph",
@@ -1810,7 +1998,7 @@
   },
   {
    "type": "heading",
-   "text": "Cosmetics &amp; Retail"
+   "text": "Cosmetics & Retail"
   },
   {
    "type": "list",
@@ -1822,7 +2010,7 @@
   },
   {
    "type": "heading",
-   "text": "Manufacturing, Export &amp; Procurement"
+   "text": "Manufacturing, Export & Procurement"
   },
   {
    "type": "list",
@@ -1834,7 +2022,7 @@
   },
   {
    "type": "heading",
-   "text": "Restaurants &amp; Food Businesses"
+   "text": "Restaurants & Food Businesses"
   },
   {
    "type": "list",
@@ -1891,7 +2079,7 @@
   },
   {
    "type": "heading",
-   "text": "Local Support &amp; Agriculture Service Centers"
+   "text": "Local Support & Agriculture Service Centers"
   },
   {
    "type": "list",
@@ -1915,7 +2103,7 @@
   },
   {
    "type": "heading",
-   "text": "Health, Safety &amp; Regulations"
+   "text": "Health, Safety & Regulations"
   },
   {
    "type": "list",
@@ -1940,7 +2128,7 @@
   },
   {
    "type": "heading",
-   "text": "Mentors &amp; State Support"
+   "text": "Mentors & State Support"
   },
   {
    "type": "list",
@@ -1955,7 +2143,7 @@
   },
   {
    "type": "heading",
-   "text": "Business Planning &amp; Education"
+   "text": "Business Planning & Education"
   },
   {
    "type": "list",
@@ -1997,7 +2185,7 @@
   },
   {
    "type": "heading",
-   "text": "Grant &amp; Loan Programs"
+   "text": "Grant & Loan Programs"
   },
   {
    "type": "heading",
@@ -2106,7 +2294,7 @@
   },
   {
    "type": "heading",
-   "text": "Legal, Tax &amp; Operational Help"
+   "text": "Legal, Tax & Operational Help"
   },
   {
    "type": "list",
@@ -2144,7 +2332,7 @@
   },
   {
    "type": "heading",
-   "text": "Mentorship &amp; Outreach Programs"
+   "text": "Mentorship & Outreach Programs"
   },
   {
    "type": "list",
@@ -2159,7 +2347,7 @@
   },
   {
    "type": "heading",
-   "text": "Service Centers &amp; Support Offices"
+   "text": "Service Centers & Support Offices"
   },
   {
    "type": "resources",
@@ -2184,7 +2372,7 @@
   },
   {
    "type": "heading",
-   "text": "Business &amp; Career Development"
+   "text": "Business & Career Development"
   },
   {
    "type": "resources",
@@ -2213,7 +2401,7 @@
   },
   {
    "type": "heading",
-   "text": "Boots to Business &amp; Reboot Programs"
+   "text": "Boots to Business & Reboot Programs"
   },
   {
    "type": "paragraph",
@@ -2283,13 +2471,13 @@
   },
   {
    "type": "heading",
-   "text": "Innovation &amp; Research Grants"
+   "text": "Innovation & Research Grants"
   },
   {
    "type": "resources",
    "items": [
     {
-     "label": "DARPA SBIR &amp; STTR Programs",
+     "label": "DARPA SBIR & STTR Programs",
      "href": "https://www.darpa.mil/work-with-us/communities/small-business/sbir-sttr-overview"
     }
    ]
@@ -2321,7 +2509,7 @@
   },
   {
    "type": "heading",
-   "text": "Educational Resources &amp; Guides"
+   "text": "Educational Resources & Guides"
   },
   {
    "type": "resources",
@@ -2342,7 +2530,7 @@
   },
   {
    "type": "heading",
-   "text": "Veterans in Farming &amp; Beekeeping"
+   "text": "Veterans in Farming & Beekeeping"
   },
   {
    "type": "list",
@@ -2354,7 +2542,7 @@
   },
   {
    "type": "heading",
-   "text": "Extra Resources &amp; Job Boards"
+   "text": "Extra Resources & Job Boards"
   },
   {
    "type": "list",
@@ -2445,7 +2633,7 @@
   },
   {
    "type": "heading",
-   "text": "SBIR &amp; STTR: America’s Innovation Engine"
+   "text": "SBIR & STTR: America’s Innovation Engine"
   },
   {
    "type": "list",
@@ -2475,7 +2663,7 @@
   },
   {
    "type": "heading",
-   "text": "Startup Accelerators &amp; Incubators"
+   "text": "Startup Accelerators & Incubators"
   },
   {
    "type": "list",
@@ -2511,7 +2699,7 @@
   },
   {
    "type": "heading",
-   "text": "Angel Networks &amp; Early-Stage Investors"
+   "text": "Angel Networks & Early-Stage Investors"
   },
   {
    "type": "list",
@@ -2680,7 +2868,7 @@
   },
   {
    "type": "heading",
-   "text": "Arts &amp; Artists"
+   "text": "Arts & Artists"
   },
   {
    "type": "resources",
@@ -2701,7 +2889,7 @@
   },
   {
    "type": "heading",
-   "text": "Consumer Brands, Healthtech &amp; Sustainable Commerce"
+   "text": "Consumer Brands, Healthtech & Sustainable Commerce"
   },
   {
    "type": "resources",
@@ -2805,7 +2993,7 @@
   },
   {
    "type": "heading",
-   "text": "Tech &amp; Streaming Entrepreneurs"
+   "text": "Tech & Streaming Entrepreneurs"
   },
   {
    "type": "resources",
@@ -2888,7 +3076,7 @@
      "href": "https://docs.google.com/document/d/1hoeJRJqCexr4jTZXQLW94b82_prJzlG8j8eoKdqlNOg/edit?usp=sharing"
     },
     {
-     "label": "Food Truck &amp; Restaurant Series {3.6.25}",
+     "label": "Food Truck & Restaurant Series {3.6.25}",
      "href": "https://docs.google.com/document/d/1cur9fc7fCeb9-amz4s3GnQXUMXhHRdxAr6KZg6CpTIQ/edit?usp=sharing"
     },
     {
@@ -2914,6 +3102,1125 @@
     {
      "label": "Website Building Series {5.31.24}",
      "href": "https://docs.google.com/document/d/1eZ-DDX-MnA5FlI7wUPb3pirFfFQCfpXIeZsku_0eNyA/edit?usp=sharing"
+    }
+   ]
+  }
+ ],
+ "83137199": [
+  {
+   "type": "paragraph",
+   "html": "If you’re looking to dive into the gig economy, these trusted resources—many recommended by Matthew Lesko—will help you learn the ropes, find opportunities, and set up your freelancing or gig-based business with confidence."
+  },
+  {
+   "type": "heading",
+   "text": "Learn the Basics & Explore Opportunities"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://freelancersunion.org/mission/\" target=\"_blank\" rel=\"noopener\"><strong>Freelancers Union: Mission</strong></a> — Advocacy and resources for independent workers."
+    },
+    {
+     "html": "<a href=\"https://theworkathomewife.com/paid-training/\" target=\"_blank\" rel=\"noopener\"><strong>13 Work-At-Home Jobs With Paid Training</strong></a> — Legit job options with paid onboarding and support."
+    },
+    {
+     "html": "<a href=\"https://pll.harvard.edu/course/remote-work-revolution-everyone?delta=0\" target=\"_blank\" rel=\"noopener\"><strong>Remote Work Revolution for Everyone | Harvard University</strong></a> — Free Harvard course on thriving in remote work environments."
+    },
+    {
+     "html": "<a href=\"https://www.coursera.org/collections/remote-work-strategies\" target=\"_blank\" rel=\"noopener\"><strong>Learn New Remote Work Strategies | Coursera</strong></a> — Curated learning paths for building remote-ready skills."
+    },
+    {
+     "html": "<a href=\"https://usa.generation.org/\" target=\"_blank\" rel=\"noopener\"><strong>Generation USA</strong></a> — Free career training programs in tech, customer service, and more."
+    },
+    {
+     "html": "<a href=\"https://sidehusl.com/\" target=\"_blank\" rel=\"noopener\"><strong>SideHusl</strong></a> — Reviews and breakdowns of gig platforms across all industries."
+    },
+    {
+     "html": "<a href=\"https://www.careeraddict.com/your-own-boss-essentials-freelancing\" target=\"_blank\" rel=\"noopener\"><strong>A Beginner’s Guide to Starting a Freelancing Career</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.sf.gov/guide-being-freelancer\" target=\"_blank\" rel=\"noopener\"><strong>Guide to Being a Freelancer | SF.gov</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://hbr.org/2018/03/thriving-in-the-gig-economy\" target=\"_blank\" rel=\"noopener\"><strong>Thriving in the Gig Economy | Harvard Business Review</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.skillsoft.com/channel/working-remotely-3a13566c-d330-429d-bbbe-896dfd4a983f\" target=\"_blank\" rel=\"noopener\"><strong>Courses for Working Remotely | Skillsoft</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.theworkathomewoman.com/free-online-courses/\" target=\"_blank\" rel=\"noopener\"><strong>25 Free Online Courses to Launch Your Work at Home Career</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.mooc-list.com/tags/remote-work\" target=\"_blank\" rel=\"noopener\"><strong>Remote Work MOOC &amp; Free Online Courses</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.forbes.com/sites/jaimepotter/2020/03/23/four-ways-to-thrive-in-the-gig-economy/\" target=\"_blank\" rel=\"noopener\"><strong>Four Ways To Succeed in the Gig Economy | Forbes</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Virtual Assistance & Freelancing Resources"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://resourcehub.app/\" target=\"_blank\" rel=\"noopener\"><strong>Find public facilities and amenities on-the-go | Resource Hub App</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.smallrevolution.com/virtual-assistant-salary/\" target=\"_blank\" rel=\"noopener\"><strong>Virtual Assistant Salary Guide (2022)</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://thecreativestretch.com/tools-virtual-assistant-business/\" target=\"_blank\" rel=\"noopener\"><strong>15 Essential Tools for Virtual Assistants</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.nerdwallet.com/article/finance/how-to-become-a-virtual-assistant\" target=\"_blank\" rel=\"noopener\"><strong>How to Become a Virtual Assistant | NerdWallet</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://thismamablogs.com/how-to-become-a-virtual-assistant/\" target=\"_blank\" rel=\"noopener\"><strong>No-Experience VA Guide | This Mama Blogs</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.nase.org/\" target=\"_blank\" rel=\"noopener\"><strong>National Association of the Self-Employed</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://freelancersunion.org/\" target=\"_blank\" rel=\"noopener\"><strong>FreelancersUnion.org</strong> | A <strong>non-profit organization</strong> serving as a support system for independent workers</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Find the Right Gig for You"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://therideshareguy.com/gig-jobs/\" target=\"_blank\" rel=\"noopener\"><strong>Best Gig Economy Jobs</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.gobankingrates.com/money/side-gigs/side-gigs-can-make-rich/\" target=\"_blank\" rel=\"noopener\"><strong>15 Side Gigs That Can Make You Richer Than a Full-Time Job</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://dollarsprout.com/gig-economy-jobs/\" target=\"_blank\" rel=\"noopener\"><strong>25 Best Gig Jobs for Supplemental Income</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.glassdoor.com/Salaries/remote-customer-support-salary-SRCH_KO0,23.htm\" target=\"_blank\" rel=\"noopener\"><strong>Remote Customer Support Salary Insights (Glassdoor 2025)</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://info.wonolo.com/blog/best-gig-economy-apps/\" target=\"_blank\" rel=\"noopener\"><strong>Top 50 Gig Apps | Wonolo</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://looka.com/blog/places-to-sell-services-online/\" target=\"_blank\" rel=\"noopener\"><strong>62+ Places to Sell Services Online</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Cook, Create, and Serve"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.thepennyhoarder.com/make-money/career/eatwith-home-chef/\" target=\"_blank\" rel=\"noopener\"><strong>Aspiring Chefs Fundraising Tool | EatWith</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.eatwith.com/blog/2017/06/20/host-with-vizeat/\" target=\"_blank\" rel=\"noopener\"><strong>Become an EatWith Host</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.simplelifecorp.com/Housekeeper%20checklist.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Checklist for Housekeepers and Cleaning Services</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.nerdwallet.com/article/finance/instacart-shopper-make-money\" target=\"_blank\" rel=\"noopener\"><strong>How to Make Money as an Instacart Shopper</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://dollarsprout.com/get-paid-to-shop/\" target=\"_blank\" rel=\"noopener\"><strong>Get Paid to Shop</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Sell Your Creative Work"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.creativebloq.com/career/sell-design-online-912746\" target=\"_blank\" rel=\"noopener\"><strong>Sell Design Online | Creative Bloq</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://smallbiztrends.com/sell-crafts-online/\" target=\"_blank\" rel=\"noopener\"><strong>25 Places to Sell Crafts Online</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://mymodernmet.com/how-to-sell-art-online/\" target=\"_blank\" rel=\"noopener\"><strong>18 Platforms for Artists to Sell Their Work Online (2025)</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Alternative Jobs"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.nps.gov/aboutus/how-to-apply.htm\" target=\"_blank\" rel=\"noopener\"><strong>National Park Service | How to Apply for Jobs</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Resources & Tools for Gig Workers"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Business &amp; Freelancer Platforms:</strong>"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.upwork.com/resources\" target=\"_blank\" rel=\"noopener\">Upwork Business &amp; Freelancer Resources</a>"
+    },
+    {
+     "html": "<a href=\"https://help.fiverr.com/hc/en-us/\" target=\"_blank\" rel=\"noopener\">Fiverr Help Center</a>"
+    },
+    {
+     "html": "<a href=\"https://www.freelancer.com/support/general/tips-for-new-freelancers\" target=\"_blank\" rel=\"noopener\">Tips for New Freelancers | Freelancer.com</a>"
+    },
+    {
+     "html": "<a href=\"https://www.indeed.com/profile/resume-templates\" target=\"_blank\" rel=\"noopener\">Build a Profile on Indeed</a>"
+    },
+    {
+     "html": "<a href=\"https://www.ttecjobs.com/en\" target=\"_blank\" rel=\"noopener\">TTEC | Tech Job Listings</a>"
+    },
+    {
+     "html": "<a href=\"https://www.jobmonkey.com/shared-economy/#google_vignette\" target=\"_blank\" rel=\"noopener\">Shared Economy Jobs Section | JobMonkey.com</a>"
+    },
+    {
+     "html": "<a href=\"https://offerup.com/\" target=\"_blank\" rel=\"noopener\">Buy &amp; Sell Locally | OfferUp.com</a>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Website &amp; App Building Series:</strong>"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://docs.google.com/document/d/1hoeJRJqCexr4jTZXQLW94b82_prJzlG8j8eoKdqlNOg/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">App Building Series</a>"
+    },
+    {
+     "html": "<a href=\"https://docs.google.com/document/d/1eZ-DDX-MnA5FlI7wUPb3pirFfFQCfpXIeZsku_0eNyA/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">Website Building Series {5.31.24}</a>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>A strong image library makes content creation faster, easier, and more impactful. Have fun curating yours!</strong>"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Kaboompics</strong> – <a href=\"https://kaboompics.com/\" target=\"_blank\" rel=\"noopener\">https://kaboompics.com</a>"
+    },
+    {
+     "html": "<strong>Life of Pix</strong> – <a href=\"https://www.lifeofpix.com/\" target=\"_blank\" rel=\"noopener\">https://www.lifeofpix.com</a>"
+    },
+    {
+     "html": "<strong>Picjumbo</strong> – <a href=\"https://picjumbo.com/\" target=\"_blank\" rel=\"noopener\">https://picjumbo.com</a>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Free Stock Photos (No Copyright Required):</strong>"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://unsplash.com/\" target=\"_blank\" rel=\"noopener\">Unsplash</a>"
+    },
+    {
+     "html": "<a href=\"https://pixabay.com/\" target=\"_blank\" rel=\"noopener\">Pixabay</a>"
+    },
+    {
+     "html": "<a href=\"https://stocksnap.io/\" target=\"_blank\" rel=\"noopener\">StockSnap.io</a>"
+    },
+    {
+     "html": "<a href=\"https://www.pexels.com/\" target=\"_blank\" rel=\"noopener\">Pexels</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Gig Categories & Platforms"
+  },
+  {
+   "type": "heading",
+   "text": "1. Virtual Assistance & In-Person Help"
+  },
+  {
+   "type": "paragraph",
+   "html": "Support businesses and entrepreneurs with online or offline tasks like project management, social media, email, and content creation."
+  },
+  {
+   "type": "paragraph",
+   "html": "Start here:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://gigs.indeed.com/\" target=\"_blank\" rel=\"noopener\">Indeed Gigs</a>"
+    },
+    {
+     "html": "<a href=\"https://www.toptal.com/talent/apply\" target=\"_blank\" rel=\"noopener\">Join Toptal</a>"
+    },
+    {
+     "html": "<a href=\"https://www.ziprecruiter.com/\" target=\"_blank\" rel=\"noopener\">ZipRecruiter</a>"
+    },
+    {
+     "html": "<a href=\"https://www.taskrabbit.com/\" target=\"_blank\" rel=\"noopener\">TaskRabbit</a>"
+    },
+    {
+     "html": "<a href=\"https://www.peopleperhour.com/\" target=\"_blank\" rel=\"noopener\">PeoplePerHour</a>"
+    },
+    {
+     "html": "<a href=\"https://www.flexjobs.com/\" target=\"_blank\" rel=\"noopener\">FlexJobs</a>"
+    },
+    {
+     "html": "<a href=\"https://remote.co/\" target=\"_blank\" rel=\"noopener\">Remote.co</a>"
+    },
+    {
+     "html": "<a href=\"https://www.glassdoor.com/index.htm\" target=\"_blank\" rel=\"noopener\">Glassdoor</a>"
+    },
+    {
+     "html": "<a href=\"https://www.simplyhired.com/\" target=\"_blank\" rel=\"noopener\">SimplyHired</a>"
+    },
+    {
+     "html": "<a href=\"https://www.wonolo.com/find-work\" target=\"_blank\" rel=\"noopener\">Wonolo</a>"
+    },
+    {
+     "html": "<a href=\"https://www.snagajob.com/\" target=\"_blank\" rel=\"noopener\">Snagajob</a>"
+    },
+    {
+     "html": "<a href=\"https://www.gigwalk.com/gigwalker-faq/\" target=\"_blank\" rel=\"noopener\">Gigwalker FAQ</a>"
+    },
+    {
+     "html": "<a href=\"https://www.goodwill.org/locate-a-career-center/\" target=\"_blank\" rel=\"noopener\">Goodwill Job Centers</a>"
+    },
+    {
+     "html": "<a href=\"https://join.liveops.com/\" target=\"_blank\" rel=\"noopener\">Join Liveops</a>"
+    },
+    {
+     "html": "<a href=\"https://outandbeyond.com/get-paid-to-be-a-virtual-friend/\" target=\"_blank\" rel=\"noopener\">Get Paid To Be A Virtual Friend &amp; Earn $500 Weekly!</a>"
+    },
+    {
+     "html": "<a href=\"https://www.instawork.com/worker\" target=\"_blank\" rel=\"noopener\">Instawork</a> – Work when you want and earn up to $30/hour."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "2. Rideshare Apps"
+  },
+  {
+   "type": "paragraph",
+   "html": "Drive for platforms like <a href=\"https://www.uber.com/us/en/s/d/kochab/?ad_id=541798817662&amp;adg_id=122571418697&amp;campaign_id=11709146297&amp;cre=541798817662&amp;dev=c&amp;dev_m=&amp;fi_id=&amp;gclid=Cj0KCQiAw9qOBhC-ARIsAG-rdn5z5awZ1BG8Jc5FAVz8gO04teUE7LFk0Zd6-iBdpTCgSMYnSWOopYoaAjTzEALw_wcB&amp;gclsrc=aw.ds&amp;kw=uber&amp;kwid=kwd-169801042&amp;match=e&amp;net=g&amp;placement=&amp;tar=&amp;utm_campaign=CM2062621-search-google-brand_1_23_US-Atlanta_driver_web_acq_cpc_en_Generic_exact_uber_kwd-169801042_541798817662_122571418697_e_c&amp;utm_source=AdWords_Brand\" target=\"_blank\" rel=\"noopener\">Uber</a> and <a href=\"https://www.lyft.com/\" target=\"_blank\" rel=\"noopener\">Lyft</a>. Flexible schedules, growing demand, urban and suburban opportunities. All you need is a qualifying car and a smartphone."
+  },
+  {
+   "type": "heading",
+   "text": "3. Delivery Jobs – Amazon Flex & More"
+  },
+  {
+   "type": "paragraph",
+   "html": "Prefer driving packages instead of people? Join services like <a href=\"https://flex.amazon.com/\" target=\"_blank\" rel=\"noopener\">Amazon Flex</a> or <a href=\"https://www.roadie.com/\" target=\"_blank\" rel=\"noopener\">Roadie</a> and earn up to $25/hour. Perfect for those who want flexibility and independence."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.amazon.jobs/en/job_categories\" target=\"_blank\" rel=\"noopener\">Amazon Job Categories</a>"
+    },
+    {
+     "html": "<a href=\"https://www.amazon.jobs/en/locations/virtual-locations\" target=\"_blank\" rel=\"noopener\">Amazon Virtual Locations</a>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Other Delivery &amp; Transport Options:</strong>"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://citizenshipper.com/animal-transporter-guide\" target=\"_blank\" rel=\"noopener\">USDA-Registered Pet Transport | CitizenShipper</a>"
+    },
+    {
+     "html": "<a href=\"https://citizenshipper.com/new-drivers\" target=\"_blank\" rel=\"noopener\">New Driver Info | CitizenShipper</a>"
+    },
+    {
+     "html": "<a href=\"https://citizenshipper.com/motorcycle-carriers\" target=\"_blank\" rel=\"noopener\">Ship Motorcycles | CitizenShipper</a>"
+    },
+    {
+     "html": "<a href=\"https://citizenshipper.com/breeders\" target=\"_blank\" rel=\"noopener\">Transport Puppies | CitizenShipper</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "4. Freelance Graphic Design"
+  },
+  {
+   "type": "paragraph",
+   "html": "Create visual content for social media, ads, and more. Use platforms like:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.upwork.com/nx/signup/?accountType=client\" target=\"_blank\" rel=\"noopener\">Upwork</a>"
+    },
+    {
+     "html": "<a href=\"https://www.freelancer.com/signup\" target=\"_blank\" rel=\"noopener\">Freelancer</a>"
+    },
+    {
+     "html": "<a href=\"https://www.fiverr.com/\" target=\"_blank\" rel=\"noopener\">Fiverr</a>"
+    },
+    {
+     "html": "<a href=\"https://www.designcrowd.com/jobs/\" target=\"_blank\" rel=\"noopener\">DesignCrowd</a>"
+    },
+    {
+     "html": "<a href=\"https://www.creativebloq.com/career/sell-design-online-912746\" target=\"_blank\" rel=\"noopener\">Creative Bloq</a>"
+    },
+    {
+     "html": "<a href=\"https://www.nobleworkscards.com/nobleworks-greeting-cards-submission-guidelines.html\" target=\"_blank\" rel=\"noopener\">NobleWorks Artist Guidelines - NobleWorksCards.com</a>"
+    },
+    {
+     "html": "<a href=\"https://oatmealstudios.com/wp/artists-guidelines/\" target=\"_blank\" rel=\"noopener\">Artist’s Guidelines - Oatmeal Studios</a>"
+    },
+    {
+     "html": "<a href=\"https://www.creativersvp.com/artists/\" target=\"_blank\" rel=\"noopener\">Artists</a>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "You’ll need basic digital design skills and a device to get started."
+  },
+  {
+   "type": "heading",
+   "text": "5. Food Delivery Apps"
+  },
+  {
+   "type": "paragraph",
+   "html": "Food delivery is one of the top-growing gig jobs. Work for:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://thesavvycouple.com/doordash\" target=\"_blank\" rel=\"noopener\">DoorDash</a>"
+    },
+    {
+     "html": "<a href=\"https://driver.grubhub.com/\" target=\"_blank\" rel=\"noopener\">GrubHub</a>"
+    },
+    {
+     "html": "<a href=\"https://www.uber.com/us/en/deliver/\" target=\"_blank\" rel=\"noopener\">Uber Eats</a>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "You can deliver by car, or in some cities, by foot or bicycle (18+). A smartphone is required to use the apps."
+  },
+  {
+   "type": "heading",
+   "text": "6. Airbnb Hosting"
+  },
+  {
+   "type": "paragraph",
+   "html": "Airbnb lets you earn hundreds—or even thousands—each month by renting out a room, apartment, or full home. Once you’re set up, the income can be mostly passive."
+  },
+  {
+   "type": "paragraph",
+   "html": "To get started, you’ll need a clean, rentable space and to follow Airbnb’s sign-up process."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.airbnb.com/help/article/221\" target=\"_blank\" rel=\"noopener\">Create an account – Airbnb Help Center</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "7. Freelance Writing"
+  },
+  {
+   "type": "paragraph",
+   "html": "If you have a way with words, you can turn your writing into income by freelancing. From blogs to product descriptions to ghostwriting books—there’s a huge demand."
+  },
+  {
+   "type": "paragraph",
+   "html": "Great places to start for free:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.freelancer.com/signup\" target=\"_blank\" rel=\"noopener\">Freelancer</a>"
+    },
+    {
+     "html": "<a href=\"https://www.fiverr.com/\" target=\"_blank\" rel=\"noopener\">Fiverr</a>"
+    },
+    {
+     "html": "<a href=\"https://www.upwork.com/nx/signup/?accountType=client\" target=\"_blank\" rel=\"noopener\">Upwork</a>"
+    },
+    {
+     "html": "<a href=\"https://www.flexjobs.com/\" target=\"_blank\" rel=\"noopener\">FlexJobs</a>"
+    },
+    {
+     "html": "<a href=\"https://www.sps.com/greeting-card-guidelines-submissions\" target=\"_blank\" rel=\"noopener\">Greeting Card Guidelines and Submission Form — Blue Mountain Arts</a>"
+    },
+    {
+     "html": "<a href=\"https://www.nobleworkscards.com/nobleworks-greeting-cards-submission-guidelines.html\" target=\"_blank\" rel=\"noopener\">NobleWorks Artist Guidelines - NobleWorksCards.com</a>"
+    },
+    {
+     "html": "<a href=\"https://oatmealstudios.com/wp/writers-guidelines/\" target=\"_blank\" rel=\"noopener\">Writer’s Guidelines - Oatmeal Studios</a>"
+    },
+    {
+     "html": "<a href=\"https://www.creativersvp.com/writers\" target=\"_blank\" rel=\"noopener\">Writers</a>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "All you need is a computer and internet access to begin."
+  },
+  {
+   "type": "heading",
+   "text": "8. English Tutoring"
+  },
+  {
+   "type": "paragraph",
+   "html": "Teach English online from anywhere in the world. High demand exists, especially in Asia. You don’t always need a degree—especially if you freelance or use more flexible platforms."
+  },
+  {
+   "type": "paragraph",
+   "html": "Start here:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.vipkid.com\" target=\"_blank\" rel=\"noopener\">VIPKid</a> (connects tutors in English-speaking countries with students in Asia)"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "What you’ll need: a computer with webcam, stable internet, and to pass a quick test and interview."
+  },
+  {
+   "type": "heading",
+   "text": "9. Pet Sitting"
+  },
+  {
+   "type": "paragraph",
+   "html": "Love animals? This gig is perfect for you. Apps like <a href=\"https://www.rover.com/\" target=\"_blank\" rel=\"noopener\">Rover</a> match you with pet owners needing walking, sitting, or check-ins."
+  },
+  {
+   "type": "paragraph",
+   "html": "You can make hundreds (even over $1,000/month) depending on your availability."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://wagwalking.com/\" target=\"_blank\" rel=\"noopener\">Wag!</a>"
+    },
+    {
+     "html": "<a href=\"https://www.sniffspot.com/host\" target=\"_blank\" rel=\"noopener\">Sniffspot – Rent Your Backyard for Dogs</a>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "All you need is a smartphone and to pass a background check."
+  },
+  {
+   "type": "heading",
+   "text": "10. Bellhop (Moving Services)"
+  },
+  {
+   "type": "paragraph",
+   "html": "Prefer physical work over screen time? Bellhop connects movers with customers in over 30 U.S. cities. You control your schedule and even get mileage reimbursements."
+  },
+  {
+   "type": "paragraph",
+   "html": "All you need is:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "Yourself"
+    },
+    {
+     "html": "A smartphone"
+    },
+    {
+     "html": "The Bellhop app"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "More info: <a href=\"https://www.bellhop.com\" target=\"_blank\" rel=\"noopener\">https://www.bellhop.com</a>"
+  },
+  {
+   "type": "heading",
+   "text": "11. Storage Rental"
+  },
+  {
+   "type": "paragraph",
+   "html": "Earn passive income by renting out your unused garage or parking space. Platforms like <a href=\"https://www.spacer.com/\" target=\"_blank\" rel=\"noopener\">Spacer</a> and <a href=\"https://www.neighbor.com/\" target=\"_blank\" rel=\"noopener\">Neighbor</a> make it easy to list, verify renters, and set your own rates."
+  },
+  {
+   "type": "paragraph",
+   "html": "Quick to start, free to list, and ideal for urban areas."
+  },
+  {
+   "type": "heading",
+   "text": "12. Sell Photos"
+  },
+  {
+   "type": "paragraph",
+   "html": "Photographers and hobbyists can earn royalties by uploading images to platforms like:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://submit.shutterstock.com/\" target=\"_blank\" rel=\"noopener\">Shutterstock</a>"
+    },
+    {
+     "html": "<a href=\"https://contributor.stock.adobe.com/en/onboarding/sync-fotolia-1\" target=\"_blank\" rel=\"noopener\">Adobe</a>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Upload quality photos, pass the platform review, add searchable keywords—and start earning when people license your work."
+  },
+  {
+   "type": "heading",
+   "text": "13. Sell Digital Products"
+  },
+  {
+   "type": "paragraph",
+   "html": "Platforms like <a href=\"https://www.whop.com\" target=\"_blank\" rel=\"noopener\">Whop</a> allow creators to sell ebooks, software, online courses, and more. You’ll have full control over your digital storefront, pricing, and customer experience."
+  },
+  {
+   "type": "paragraph",
+   "html": "Whop also includes built-in tools for memberships, community engagement, and automated delivery."
+  },
+  {
+   "type": "heading",
+   "text": "14. Personal Services: Fitness, Coaching, Teaching & More"
+  },
+  {
+   "type": "paragraph",
+   "html": "Put your personal expertise to work—online or offline:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Fitness Coaching</strong>: <a href=\"https://findyourtrainer.com/trainer/submit/\" target=\"_blank\" rel=\"noopener\">Apply as a trainer on Fyt</a>"
+    },
+    {
+     "html": "<strong>Online Courses &amp; Coaching</strong>: <a href=\"https://teachable.com/careers\" target=\"_blank\" rel=\"noopener\">Teachable</a>, <a href=\"https://www.thinkific.com/careers/\" target=\"_blank\" rel=\"noopener\">Thinkific</a>"
+    },
+    {
+     "html": "<strong>Travel Assistants</strong>: <a href=\"https://www.flightfox.com/jobs\" target=\"_blank\" rel=\"noopener\">Flightfox Jobs</a>"
+    },
+    {
+     "html": "<strong>Tutoring &amp; Teaching</strong>: <a href=\"https://www.skillshare.com/en/careers\" target=\"_blank\" rel=\"noopener\">Skillshare Careers</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "15. Cooking Services"
+  },
+  {
+   "type": "paragraph",
+   "html": "Turn your love for food into income by hosting unique culinary experiences from your home or kitchen. These platforms connect you with travelers or locals looking for memorable meals and cooking events."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.eatwith.com/landings/become-host/become-a-host-on-eatwith\" target=\"_blank\" rel=\"noopener\">Become a host on Eatwith</a>"
+    },
+    {
+     "html": "<a href=\"https://www.tastemade.com/careers\" target=\"_blank\" rel=\"noopener\">Careers at Tastemade</a>"
+    },
+    {
+     "html": "<a href=\"https://travelingspoon.com/become-host\" target=\"_blank\" rel=\"noopener\">Become a Host – Traveling Spoon</a>"
+    },
+    {
+     "html": "<a href=\"https://www.airbnb.com/\" target=\"_blank\" rel=\"noopener\">Airbnb</a> — <a href=\"https://www.airbnb.com/help/article/221\" target=\"_blank\" rel=\"noopener\">Airbnb Host Help Center</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "16. Housekeeping & Handyperson Services"
+  },
+  {
+   "type": "paragraph",
+   "html": "From cleaning to handyman tasks, there are platforms that connect you directly with customers in your area."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://housekeeper.com/housekeeper-jobs\" target=\"_blank\" rel=\"noopener\">Housekeeper.com Job Listings</a>"
+    },
+    {
+     "html": "<a href=\"https://jobs.mollymaid.com/\" target=\"_blank\" rel=\"noopener\">Jobs at Molly Maid</a>"
+    },
+    {
+     "html": "<a href=\"https://merrymaidscareers.careerplug.com/jobs\" target=\"_blank\" rel=\"noopener\">Merry Maids Careers</a>"
+    },
+    {
+     "html": "<a href=\"https://www.handy.com/apply\" target=\"_blank\" rel=\"noopener\">Apply to be a Pro | Angi Services</a>"
+    },
+    {
+     "html": "<strong>Resource:</strong> <a href=\"https://www.simplelifecorp.com/Housekeeper%20checklist.pdf\" target=\"_blank\" rel=\"noopener\">Checklist for Housekeeping Services by Matthew Lesko</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "17. Personal Shoppers"
+  },
+  {
+   "type": "paragraph",
+   "html": "Shop for groceries or deliver daily essentials through top gig platforms."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://shoppers.instacart.com/role/full-service\" target=\"_blank\" rel=\"noopener\">Instacart Shopper Signup</a>"
+    },
+    {
+     "html": "<a href=\"https://www.shipt.com/shopper/be-a-shopper\" target=\"_blank\" rel=\"noopener\">Shop with Shipt</a>"
+    },
+    {
+     "html": "<a href=\"https://www.shipt.com/driver/be-a-driver\" target=\"_blank\" rel=\"noopener\">Become a Driver – Shipt</a>"
+    },
+    {
+     "html": "<a href=\"https://www.shipt.com/partner/affiliate\" target=\"_blank\" rel=\"noopener\">Shipt Affiliate Program</a>"
+    },
+    {
+     "html": "<a href=\"https://deliver.gopuff.com/signup\" target=\"_blank\" rel=\"noopener\">Gopuff Delivery Signup</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "18. Caregiving Services"
+  },
+  {
+   "type": "paragraph",
+   "html": "Offer elder care, child care, or other assistance through trusted caregiving platforms."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.care.com/hiw/caregivers/\" target=\"_blank\" rel=\"noopener\">How Care.com Works for Caregivers</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "19. Artists, Musicians & More"
+  },
+  {
+   "type": "paragraph",
+   "html": "Sell your creations, launch a Patreon, or open your own shop on popular marketplaces."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.etsy.com/sell?ref=ftr\" target=\"_blank\" rel=\"noopener\">Sell on Etsy</a>"
+    },
+    {
+     "html": "<a href=\"https://seller.walmart.com/signup?locale=en-US\" target=\"_blank\" rel=\"noopener\">Walmart Marketplace Signup</a>"
+    },
+    {
+     "html": "<a href=\"https://www.patreon.com/creators/visualartists\" target=\"_blank\" rel=\"noopener\">Patreon for Visual Artists</a>"
+    },
+    {
+     "html": "<a href=\"https://www.patreon.com/creators/music\" target=\"_blank\" rel=\"noopener\">Patreon for Musicians</a>"
+    },
+    {
+     "html": "<a href=\"https://www.patreon.com/creators/video\" target=\"_blank\" rel=\"noopener\">Patreon for Video Creators</a>"
+    },
+    {
+     "html": "<a href=\"https://www.patreon.com/creators/podcasts\" target=\"_blank\" rel=\"noopener\">Patreon for Podcasters</a>"
+    },
+    {
+     "html": "<a href=\"https://www.patreon.com/creators/gaming\" target=\"_blank\" rel=\"noopener\">Patreon for Game Developers</a>"
+    },
+    {
+     "html": "<a href=\"https://sell.amazon.com/sell\" target=\"_blank\" rel=\"noopener\">How to Sell on Amazon</a>"
+    },
+    {
+     "html": "<a href=\"https://sell.amazon.com/programs/handmade\" target=\"_blank\" rel=\"noopener\">Amazon Handmade</a>"
+    },
+    {
+     "html": "<a href=\"https://sell.amazon.com/sell/art\" target=\"_blank\" rel=\"noopener\">Sell Art on Amazon</a>"
+    },
+    {
+     "html": "<a href=\"https://merch.amazon.com/\" target=\"_blank\" rel=\"noopener\">Amazon Merch on Demand</a>"
+    },
+    {
+     "html": "<a href=\"https://www.redbubble.com/about/selling\" target=\"_blank\" rel=\"noopener\">Redbubble – Sell Art &amp; Designs</a>"
+    },
+    {
+     "html": "<a href=\"https://tongal.com/backlot\" target=\"_blank\" rel=\"noopener\">Backlot | Tongal</a>"
+    },
+    {
+     "html": "<a href=\"https://poshmark.com/\" target=\"_blank\" rel=\"noopener\">Poshmark</a>"
+    },
+    {
+     "html": "<a href=\"https://www.vinted.com/\" target=\"_blank\" rel=\"noopener\">Vinted</a>"
+    },
+    {
+     "html": "<a href=\"https://www.designcrowd.com/jobs/\" target=\"_blank\" rel=\"noopener\">Design Jobs – DesignCrowd</a>"
+    },
+    {
+     "html": "<a href=\"https://societyforcalligraphy.org/Freelance-Calligraphers\" target=\"_blank\" rel=\"noopener\">Society for Calligraphy – Freelancers</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "20. Tailors & Seamstresses"
+  },
+  {
+   "type": "paragraph",
+   "html": "Join fashion-forward companies as a tailor or stylist."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.stitchfix.com/careers\" target=\"_blank\" rel=\"noopener\">Stitch Fix Careers</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "21. Seasonal & RV Jobs"
+  },
+  {
+   "type": "paragraph",
+   "html": "Live and work in beautiful places during peak seasons or while traveling the country."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.coolworks.com/\" target=\"_blank\" rel=\"noopener\">CoolWorks.com</a>"
+    },
+    {
+     "html": "<a href=\"https://www.xanterrajobs.com/main/xanterra/home\" target=\"_blank\" rel=\"noopener\">Xanterra Careers</a>"
+    },
+    {
+     "html": "<a href=\"https://vagajobs.com/\" target=\"_blank\" rel=\"noopener\">VagaJobs</a>"
+    },
+    {
+     "html": "<a href=\"https://wanderjobs.com/\" target=\"_blank\" rel=\"noopener\">WanderJobs</a>"
+    },
+    {
+     "html": "<a href=\"https://www.backdoorjobs.com/\" target=\"_blank\" rel=\"noopener\">Backdoor Jobs</a>"
+    },
+    {
+     "html": "<a href=\"https://www.workamper.com/\" target=\"_blank\" rel=\"noopener\">Workamper News</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "22. Translation Services"
+  },
+  {
+   "type": "paragraph",
+   "html": "Get paid to translate documents, provide interpretation, or localize content for global businesses."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.languageline.com/client-portal-updates\" target=\"_blank\" rel=\"noopener\">LanguageLine (Client Portal Update)</a>"
+    },
+    {
+     "html": "<a href=\"https://apply.workable.com/textmaster/?lng=en\" target=\"_blank\" rel=\"noopener\">TextMaster Job Listings</a>"
+    },
+    {
+     "html": "<a href=\"https://www.lionbridge.com/join-our-team/\" target=\"_blank\" rel=\"noopener\">Join Lionbridge</a>"
+    },
+    {
+     "html": "<a href=\"https://www.proz.com/\" target=\"_blank\" rel=\"noopener\">ProZ.com</a>"
+    },
+    {
+     "html": "<a href=\"https://gengo.com/translators/\" target=\"_blank\" rel=\"noopener\">Become a Translator on Gengo</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "23. Website & App Testing"
+  },
+  {
+   "type": "paragraph",
+   "html": "Provide feedback on websites and apps and get paid for your insights."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://trymata.com/\" target=\"_blank\" rel=\"noopener\">Trymata</a>"
+    },
+    {
+     "html": "<a href=\"https://www.usertesting.com/company/careers\" target=\"_blank\" rel=\"noopener\">UserTesting Careers</a>"
+    },
+    {
+     "html": "<a href=\"https://www.userlytics.com/user-experience-research/paid-ux-testing/\" target=\"_blank\" rel=\"noopener\">Become a Paid Tester – Userlytics</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "24. Moving & Delivery"
+  },
+  {
+   "type": "paragraph",
+   "html": "Help people move or deliver items across town."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://goshare.co/careers/\" target=\"_blank\" rel=\"noopener\">GoShare Careers</a>"
+    },
+    {
+     "html": "<a href=\"https://dolly.com/helpers\" target=\"_blank\" rel=\"noopener\">Become a Dolly Helper</a>"
+    },
+    {
+     "html": "<a href=\"https://dolly.com/hiring\" target=\"_blank\" rel=\"noopener\">Dolly Jobs</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "25. Events, Rides, & Rentals"
+  },
+  {
+   "type": "paragraph",
+   "html": "From event planning to driving kids to school, there’s a gig here for you."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.gigsalad.com/\" target=\"_blank\" rel=\"noopener\">GigSalad – Book Events &amp; Services</a>"
+    },
+    {
+     "html": "<a href=\"https://www.gigpro.com/\" target=\"_blank\" rel=\"noopener\">Gigpro – Restaurant Gigs</a>"
+    },
+    {
+     "html": "<a href=\"https://www.hopskipdrive.com/\" target=\"_blank\" rel=\"noopener\">HopSkipDrive – Rides for Kids</a>"
+    },
+    {
+     "html": "<a href=\"https://www.rentah.com/\" target=\"_blank\" rel=\"noopener\">Rentah – Rent Services or Equipment</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "26. Rentals of All Sorts"
+  },
+  {
+   "type": "paragraph",
+   "html": "Monetize what you already own—parking spots, cars, or even equipment."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://spothero.com/sell-parking/operators\" target=\"_blank\" rel=\"noopener\">SpotHero – For Parking Operators</a>"
+    },
+    {
+     "html": "<a href=\"https://spothero.com/sell-parking/monthly-parking\" target=\"_blank\" rel=\"noopener\">SpotHero – Monthly Parking</a>"
+    },
+    {
+     "html": "<a href=\"https://spothero.com/sell-parking/property-managers\" target=\"_blank\" rel=\"noopener\">SpotHero – Property Managers</a>"
+    },
+    {
+     "html": "<a href=\"https://spothero.com/sell-parking/independent-sellers\" target=\"_blank\" rel=\"noopener\">SpotHero – Rent Your Space</a>"
+    },
+    {
+     "html": "<a href=\"https://turo.com/us/en/careers\" target=\"_blank\" rel=\"noopener\">Turo Careers</a>"
+    },
+    {
+     "html": "<a href=\"https://turo.com/us/en/car-rental/united-states/list-your-car\" target=\"_blank\" rel=\"noopener\">List Your Car – Turo</a>"
+    },
+    {
+     "html": "<a href=\"https://turo.com/us/en/car-rental/united-states/carculator\" target=\"_blank\" rel=\"noopener\">Turo Carculator</a>"
+    },
+    {
+     "html": "<a href=\"https://turo.com/us/en/car-rental/united-states/insurance\" target=\"_blank\" rel=\"noopener\">Turo Insurance Details</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "27. Focus Groups"
+  },
+  {
+   "type": "paragraph",
+   "html": "Participate in studies, surveys, or interviews and get paid for your opinions."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://app.focusgroups.org/\" target=\"_blank\" rel=\"noopener\">Focus Groups – Login</a>"
+    },
+    {
+     "html": "<a href=\"https://www.userinterviews.com/\" target=\"_blank\" rel=\"noopener\">User Interviews</a>"
+    },
+    {
+     "html": "<a href=\"https://www.everyjobforme.com/\" target=\"_blank\" rel=\"noopener\">EveryJobForMe</a>"
+    },
+    {
+     "html": "<a href=\"https://www.endtoenduserresearch.com/\" target=\"_blank\" rel=\"noopener\">End to End User Research</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "28. Mystery Shopping"
+  },
+  {
+   "type": "paragraph",
+   "html": "Get paid to evaluate customer experiences."
+  },
+  {
+   "type": "warning",
+   "html": "These are real opportunities — but always do your due diligence!"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Trusted Mystery Shopping Companies:</strong>"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.sinclaircustomermetrics.com/\" target=\"_blank\" rel=\"noopener\">Sinclair Customer Metrics</a>"
+    },
+    {
+     "html": "<a href=\"https://www.marketforce.com/\" target=\"_blank\" rel=\"noopener\">Market Force</a> — <a href=\"https://shopper.marketforce.com/#/login\" target=\"_blank\" rel=\"noopener\">Market Force Shopper Login</a>"
+    },
+    {
+     "html": "<a href=\"https://elitecxs.com/\" target=\"_blank\" rel=\"noopener\">Elite CXS</a>"
+    },
+    {
+     "html": "<a href=\"https://www.mysteryshoppingservice.com/\" target=\"_blank\" rel=\"noopener\">Mystery Shopping Service</a>"
+    },
+    {
+     "html": "<a href=\"https://www.athpower.com/\" target=\"_blank\" rel=\"noopener\">ath Power Consulting</a>"
+    },
+    {
+     "html": "<a href=\"https://www.bareinternational.com/\" target=\"_blank\" rel=\"noopener\">BARE International</a>"
+    },
+    {
+     "html": "<a href=\"https://www.secretshopper.validateddata.com/\" target=\"_blank\" rel=\"noopener\">Secret Shopper</a>"
+    },
+    {
+     "html": "<a href=\"https://a-closer-look.com/\" target=\"_blank\" rel=\"noopener\">A Closer Look</a>"
+    },
+    {
+     "html": "<a href=\"https://intelli-shop.com/\" target=\"_blank\" rel=\"noopener\">IntelliShop</a>"
+    },
+    {
+     "html": "<a href=\"https://kevin-billingsley-n86y.squarespace.com/\" target=\"_blank\" rel=\"noopener\">Perception Strategies</a>"
+    },
+    {
+     "html": "<a href=\"https://www.ishopforipsos.com/\" target=\"_blank\" rel=\"noopener\">iShopFor Ipsos</a>"
+    },
+    {
+     "html": "<a href=\"https://www.bestmark.com/\" target=\"_blank\" rel=\"noopener\">BestMark</a>"
+    },
+    {
+     "html": "<a href=\"https://apply.second-to-none.com/#/apply\" target=\"_blank\" rel=\"noopener\">Second To None</a>"
+    },
+    {
+     "html": "<a href=\"https://www.acpview.com/\" target=\"_blank\" rel=\"noopener\">A Customer’s Point of View, Inc.</a>"
+    },
+    {
+     "html": "<a href=\"https://www.conferoinc.com/\" target=\"_blank\" rel=\"noopener\">Confero, Inc.</a>"
+    },
+    {
+     "html": "<a href=\"https://www.amusementadvantage.com/\" target=\"_blank\" rel=\"noopener\">Amusement Advantage</a>"
+    },
+    {
+     "html": "<a href=\"https://www.seelevelhx.com/\" target=\"_blank\" rel=\"noopener\">SeeLevel HX</a>"
+    },
+    {
+     "html": "<a href=\"https://shoppersview.com/\" target=\"_blank\" rel=\"noopener\">Shoppers’ View</a>"
+    },
+    {
+     "html": "<a href=\"https://www.isecretshop.com/\" target=\"_blank\" rel=\"noopener\">iSecretShop</a>"
+    },
+    {
+     "html": "<a href=\"https://www.realitybasedgroup.com/\" target=\"_blank\" rel=\"noopener\">Reality Based Group</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "29. Mock Juror"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>“Mock jurors help shape legal cases and provide research companies and lawyers with valuable information.”</strong>"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.indeed.com/career-advice/career-development/mock-jury\" target=\"_blank\" rel=\"noopener\">What Is a Mock Jury? (With Common Juror Requirements) | Indeed.com</a>"
     }
    ]
   }
@@ -2994,7 +4301,7 @@
   },
   {
    "type": "heading",
-   "text": "Latina Entrepreneurs | Loan &amp; Funding Opportunities"
+   "text": "Latina Entrepreneurs | Loan & Funding Opportunities"
   },
   {
    "type": "list",
@@ -3009,7 +4316,7 @@
   },
   {
    "type": "heading",
-   "text": "Black-Owned Women Businesses | Grants &amp; Pitch Programs"
+   "text": "Black-Owned Women Businesses | Grants & Pitch Programs"
   },
   {
    "type": "list",
@@ -3151,7 +4458,7 @@
   },
   {
    "type": "heading",
-   "text": "2. Know Your Codes: NAICS, PSC &amp; UNSPSC"
+   "text": "2. Know Your Codes: NAICS, PSC & UNSPSC"
   },
   {
    "type": "paragraph",
@@ -3206,7 +4513,7 @@
   },
   {
    "type": "heading",
-   "text": "4. Use SBA Tools &amp; Programs"
+   "text": "4. Use SBA Tools & Programs"
   },
   {
    "type": "paragraph",
@@ -3225,7 +4532,7 @@
   },
   {
    "type": "heading",
-   "text": "5. Payment Systems: PIEE &amp; More"
+   "text": "5. Payment Systems: PIEE & More"
   },
   {
    "type": "paragraph",
@@ -3245,7 +4552,7 @@
   },
   {
    "type": "heading",
-   "text": "7. Research &amp; Forecasting Tools"
+   "text": "7. Research & Forecasting Tools"
   },
   {
    "type": "paragraph",
@@ -3297,6 +4604,428 @@
   {
    "type": "paragraph",
    "html": "Once you’re registered and familiar with the process, start bidding on smaller contracts to build experience, and watch new doors open."
+  }
+ ],
+ "85344073": [
+  {
+   "type": "paragraph",
+   "html": "Changing careers or finding a better-paying job can feel overwhelming — especially if you don’t have a degree or haven’t worked in a while. But here’s the secret: don’t start by searching on Google. Most results will be businesses trying to sell you something, not the free help you actually need."
+  },
+  {
+   "type": "paragraph",
+   "html": "Instead, go where government agencies and nonprofit career programs provide <strong>free support</strong> to get trained and hired."
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Free Career Help guide (PDF)",
+     "href": "https://media2-production.mightynetworks.com/asset/e51ddd2d-d950-4e28-8f62-6019cf0be5f0/Lesko_Help_CB_C01_Free_Career_Help.pdf"
+    }
+   ]
+  }
+ ],
+ "98435338": [
+  {
+   "type": "paragraph",
+   "html": "The programs listed below are restricted to seniors. BUT — as a senior, you are ALSO eligible for programs that have NO age restrictions!"
+  },
+  {
+   "type": "paragraph",
+   "html": "That means you can also apply for programs that help you:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "Pay Your Bills"
+    },
+    {
+     "html": "Get Out of Debt"
+    },
+    {
+     "html": "Start a Business"
+    },
+    {
+     "html": "Buy a Home"
+    },
+    {
+     "html": "Get Legal Help"
+    },
+    {
+     "html": "Get Health Care"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Being a senior doesn’t limit you — it <strong>EXPANDS your options!</strong>"
+  },
+  {
+   "type": "heading",
+   "text": "1 | Over 40? YOU’RE PROTECTED!"
+  },
+  {
+   "type": "paragraph",
+   "html": "If you’re 40 or older, it’s ILLEGAL to discriminate against you because of age."
+  },
+  {
+   "type": "paragraph",
+   "html": "Think you were treated unfairly at work? FILE A COMPLAINT FOR FREE!"
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://www.eeoc.gov/filing-charge-discrimination\" target=\"_blank\" rel=\"noopener\">https://www.eeoc.gov/filing-charge-discrimination</a> — or call 1-800-669-4000"
+  },
+  {
+   "type": "paragraph",
+   "html": "Don’t guess. ASK!"
+  },
+  {
+   "type": "heading",
+   "text": "2 | Free Legal Help for ANY Problem"
+  },
+  {
+   "type": "paragraph",
+   "html": "You don’t need money to get legal help."
+  },
+  {
+   "type": "paragraph",
+   "html": "Call the Eldercare Locator — they connect you to FREE local help."
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://eldercare.acl.gov/home\" target=\"_blank\" rel=\"noopener\">https://eldercare.acl.gov/home</a> — or call 800-677-1110"
+  },
+  {
+   "type": "paragraph",
+   "html": "One phone call could change everything."
+  },
+  {
+   "type": "heading",
+   "text": "3 | Property Tax Too High?"
+  },
+  {
+   "type": "paragraph",
+   "html": "Many states LOWER or FREEZE property taxes for seniors!"
+  },
+  {
+   "type": "paragraph",
+   "html": "Call your local property tax office. Or check: <a href=\"https://ptaconsumers.aarpfoundation.org/\" target=\"_blank\" rel=\"noopener\">https://ptaconsumers.aarpfoundation.org/</a>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Why pay more than you have to?"
+  },
+  {
+   "type": "heading",
+   "text": "4 | Confused About Medicare?"
+  },
+  {
+   "type": "paragraph",
+   "html": "STOP guessing!"
+  },
+  {
+   "type": "paragraph",
+   "html": "There are FREE experts who will compare plans for you — at no cost."
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://www.shiphelp.org/\" target=\"_blank\" rel=\"noopener\">https://www.shiphelp.org/</a>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Unbiased. Free. Smart."
+  },
+  {
+   "type": "heading",
+   "text": "5 | Need Home Repairs?"
+  },
+  {
+   "type": "paragraph",
+   "html": "Grants and free repair programs are everywhere — but you have to ASK!"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "label": "Visit",
+     "html": "Go to <a href=\"http://FindHelp.org\" target=\"_blank\" rel=\"noopener\">FindHelp.org</a>"
+    },
+    {
+     "label": "ZIP code",
+     "html": "Type your ZIP code"
+    },
+    {
+     "label": "Search",
+     "html": "Search “Seniors”"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "You may be shocked how much help is there!"
+  },
+  {
+   "type": "heading",
+   "text": "6 | Caregiver Money Is Available"
+  },
+  {
+   "type": "paragraph",
+   "html": "Taking care of someone? There may be FUNDING and SUPPORT programs for you."
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://eldercare.acl.gov/home\" target=\"_blank\" rel=\"noopener\">https://eldercare.acl.gov/home</a> — or call 800-677-1110"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "label": "Visit",
+     "html": "Or search <a href=\"http://FindHelp.org\" target=\"_blank\" rel=\"noopener\">FindHelp.org</a>"
+    },
+    {
+     "label": "ZIP code",
+     "html": "Put in your ZIP code"
+    },
+    {
+     "label": "Keyword",
+     "html": "Use the keyword: “Caregiver”"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Sample for Kensington, MD 20895: 454 programs provide free funding and services in this area — <a href=\"https://findhelp.org/search/text?term=senior&amp;postal=20895\" target=\"_blank\" rel=\"noopener\">https://findhelp.org/search/text?term=senior&amp;postal=20895</a>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Free money is real — but only if you look!"
+  },
+  {
+   "type": "heading",
+   "text": "7 | Want Someone to Walk You Through Everything?"
+  },
+  {
+   "type": "paragraph",
+   "html": "Call the Eldercare Locator. They literally get paid to help you find help."
+  },
+  {
+   "type": "paragraph",
+   "html": "Call 800-677-1110"
+  },
+  {
+   "type": "paragraph",
+   "html": "Use them!"
+  },
+  {
+   "type": "heading",
+   "text": "8 | Free Tax Preparation"
+  },
+  {
+   "type": "paragraph",
+   "html": "Why pay to file taxes?"
+  },
+  {
+   "type": "paragraph",
+   "html": "The IRS sponsors FREE tax help for seniors."
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://freetaxassistance.for.irs.gov/s/sitelocator\" target=\"_blank\" rel=\"noopener\">https://freetaxassistance.for.irs.gov/s/sitelocator</a>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Keep your money!"
+  },
+  {
+   "type": "heading",
+   "text": "9 | Government Pays to Hire Seniors"
+  },
+  {
+   "type": "paragraph",
+   "html": "YES — there’s a federal program that pays organizations to train and hire older workers!"
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://www.careeronestop.org/LocalHelp/EmploymentAndTraining/find-older-worker-programs.aspx\" target=\"_blank\" rel=\"noopener\">https://www.careeronestop.org/LocalHelp/EmploymentAndTraining/find-older-worker-programs.aspx</a> — or call 1-877-872-5627"
+  },
+  {
+   "type": "paragraph",
+   "html": "Experience is POWER!"
+  },
+  {
+   "type": "heading",
+   "text": "10 | Free College at 60?"
+  },
+  {
+   "type": "paragraph",
+   "html": "Many states offer FREE or cheap college starting around age 60."
+  },
+  {
+   "type": "paragraph",
+   "html": "You could live another 20–30 years. Why not do something FUN this time?"
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://www.aarp.org/work/careers/free-college-classes/\" target=\"_blank\" rel=\"noopener\">https://www.aarp.org/work/careers/free-college-classes/</a>"
+  },
+  {
+   "type": "heading",
+   "text": "11 | College With No Age Limit? Even Better!"
+  },
+  {
+   "type": "paragraph",
+   "html": "Many community colleges offer FREE training programs — NO AGE REQUIREMENT."
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://www.careeronestop.org/LocalHelp/CommunityServices/find-community-colleges.aspx\" target=\"_blank\" rel=\"noopener\">https://www.careeronestop.org/LocalHelp/CommunityServices/find-community-colleges.aspx</a>"
+  },
+  {
+   "type": "paragraph",
+   "html": "New career? Higher pay? Why not?"
+  },
+  {
+   "type": "heading",
+   "text": "12 | 55–80+? Get Paid to Volunteer Abroad"
+  },
+  {
+   "type": "paragraph",
+   "html": "The Peace Corps LOVES older applicants!"
+  },
+  {
+   "type": "paragraph",
+   "html": "Short-term. Long-term. Living expenses and healthcare included."
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://www.peacecorps.gov/faqs/older-applicants/\" target=\"_blank\" rel=\"noopener\">https://www.peacecorps.gov/faqs/older-applicants/</a>"
+  },
+  {
+   "type": "paragraph",
+   "html": "Adventure doesn’t expire!"
+  },
+  {
+   "type": "heading",
+   "text": "13 | Find EVERYTHING in Your ZIP Code"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "label": "Visit",
+     "html": "Go to <a href=\"http://FindHelp.org\" target=\"_blank\" rel=\"noopener\">FindHelp.org</a>"
+    },
+    {
+     "label": "ZIP code",
+     "html": "Type your ZIP"
+    },
+    {
+     "label": "Search",
+     "html": "Search “Seniors”"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Hundreds of programs may pop up."
+  },
+  {
+   "type": "paragraph",
+   "html": "If you don’t look, you don’t get."
+  },
+  {
+   "type": "paragraph",
+   "html": "Sample for Kensington, MD 20895: 974 programs provide free funding and services in this area — <a href=\"https://findhelp.org/search/text?term=senior&amp;postal=20895\" target=\"_blank\" rel=\"noopener\">https://findhelp.org/search/text?term=senior&amp;postal=20895</a>"
+  },
+  {
+   "type": "heading",
+   "text": "14 | Call Your Elected Officials"
+  },
+  {
+   "type": "paragraph",
+   "html": "Having trouble with a government office?"
+  },
+  {
+   "type": "paragraph",
+   "html": "Call your elected representative. They have staff whose JOB is to fix problems for voters."
+  },
+  {
+   "type": "paragraph",
+   "html": "<a href=\"https://www.commoncause.org/find-your-representative/\" target=\"_blank\" rel=\"noopener\">https://www.commoncause.org/find-your-representative/</a>"
+  },
+  {
+   "type": "paragraph",
+   "html": "They work for YOU."
+  },
+  {
+   "type": "heading",
+   "text": "15 | Stick with .GOV and .ORG"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": ".GOV and .ORG = help"
+    },
+    {
+     "html": ".COM = usually selling something"
+    }
+   ]
+  },
+  {
+   "type": "warning",
+   "html": "A .COM site is not always bad — just be smart about who is selling you something."
+  },
+  {
+   "type": "tip",
+   "html": "Free help lives in government and nonprofit offices."
+  },
+  {
+   "type": "heading",
+   "text": "16 | Your Phone Is Your SUPERPOWER"
+  },
+  {
+   "type": "paragraph",
+   "html": "The real secret?"
+  },
+  {
+   "type": "paragraph",
+   "html": "CALL."
+  },
+  {
+   "type": "paragraph",
+   "html": "Call the nonprofits. Call the government offices. Ask questions."
+  },
+  {
+   "type": "paragraph",
+   "html": "They get paid to help you."
+  },
+  {
+   "type": "paragraph",
+   "html": "Yes, you may wait on hold. Yes, you may need patience."
+  },
+  {
+   "type": "paragraph",
+   "html": "But FREE MONEY and FREE HELP are worth it."
+  },
+  {
+   "type": "heading",
+   "text": "THE BIG SECRET"
+  },
+  {
+   "type": "paragraph",
+   "html": "The help is out there. The money is out there. The programs are out there."
+  },
+  {
+   "type": "paragraph",
+   "html": "Most people just don’t ask."
+  },
+  {
+   "type": "paragraph",
+   "html": "YOU are not most people."
   }
  ]
 }
