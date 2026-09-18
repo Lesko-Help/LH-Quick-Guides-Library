@@ -141,7 +141,9 @@ def library_data(lib, items):
             it['download'] = it['drive'][0]['viewUrl']; it['preview'] = it['drive'][0].get('previewUrl')
         else:
             it['download'] = None; it['preview'] = None
-        it['body'] = BODIES.get(it['id']) or None
+        # the written post and the PDF are the same content: show the text only
+        # where there is no PDF to read instead
+        it['body'] = None if it['download'] else (BODIES.get(it['id']) or None)
         it['isLesson'] = it['id'] in lib.get('lessons', {})
         it['lessonNo'] = lib.get('lessons', {}).get(it['id'])
         out.append(it)
