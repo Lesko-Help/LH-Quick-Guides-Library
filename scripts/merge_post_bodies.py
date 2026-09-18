@@ -136,6 +136,10 @@ def main(dirs):
                 continue
             seen.add(pid)
             blocks = [x for x in (clean_block(b) for b in data.get('blocks', [])) if x]
+            # a post whose only content is a link to its own PDF adds nothing:
+            # the viewer already shows that PDF and its download button
+            if len(blocks) == 1 and blocks[0]['type'] == 'resources' and len(blocks[0]['items']) <= 2:
+                blocks = []
             if not blocks:
                 stats['empty'].append(pid)
                 continue

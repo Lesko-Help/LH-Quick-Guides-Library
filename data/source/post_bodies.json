@@ -1,13 +1,371 @@
 {
- "103057720": [
+ "103058219": [
+  {
+   "type": "paragraph",
+   "html": "Printable quick guide: <a href=\"https://media2-production.mightynetworks.com/asset/117d9345-3c32-4285-aeb3-f6da37163677/Lesko_Help_02_Phone_Internet_Devices_Quick_Guide.pdf\" target=\"_blank\" rel=\"noopener\">Phone, Internet &amp; Devices Quick Guide (PDF)</a>"
+  }
+ ],
+ "103063706": [
+  {
+   "type": "paragraph",
+   "html": "When it comes to finding grants to buy a home, the process can feel overwhelming. This lesson will guide you on where to start and how to avoid common mistakes."
+  },
+  {
+   "type": "heading",
+   "text": "Make an Appointment With a HUD Counselor"
+  },
+  {
+   "type": "paragraph",
+   "html": "First, find a <strong>HUD-approved housing counselor</strong> and <strong>make an appointment</strong>. Funded by the government, these experts help you navigate the details relevant to your state, region, and situation. Here's how to start:"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "label": "Search",
+     "html": "Visit <a href=\"https://www.hud.gov/counseling\" target=\"_blank\" rel=\"noopener\"><strong>HUD.gov/counseling</strong></a> and search for counselors by entering your zip code."
+    },
+    {
+     "label": "Locate",
+     "html": "Pinpoint the application or contact information on the website of the <strong>HUD-approved financial counselor</strong> you have chosen, and follow the steps indicated to start the process of acquiring a counselor."
+    },
+    {
+     "label": "Check Email",
+     "html": "Check your email, where the HUD-approved agency will contact you to schedule an appointment in person, over the phone, or through a Zoom meeting."
+    },
+    {
+     "label": "Gather Information",
+     "html": "Gather all the information you need to buy a house."
+    }
+   ]
+  },
+  {
+   "type": "tip",
+   "html": "Create folders to keep all your information ordered and in one place."
+  },
+  {
+   "type": "heading",
+   "text": "Seek Advice from More than One Expert"
+  },
+  {
+   "type": "paragraph",
+   "html": "If one HUD counselor says you're ineligible or is unhelpful, seek another HUD-approved counselor or other comparable resources, such as NeighborWorks. Many programs exist, and no one knows them all."
+  },
+  {
+   "type": "paragraph",
+   "html": "Another valuable resource is <a href=\"https://findhelp.org/\" target=\"_blank\" rel=\"noopener\"><strong>findhelp.org</strong></a>. Look up \"home buyer education\" to find local nonprofits that can guide you through grant and funding options. These organizations often offer additional support, <em>typically</em> at no cost to you."
+  },
+  {
+   "type": "paragraph",
+   "html": "Consulting multiple experts boosts your chances of finding the proper support."
+  },
+  {
+   "type": "heading",
+   "text": "Start Searching Now"
+  },
   {
    "type": "resources",
    "items": [
     {
-     "label": "Debt Help and Credit Counseling Quick Guide (PDF)",
-     "href": "https://media2-production.mightynetworks.com/asset/d545d9f6-97ce-49d3-b936-aaecf1ce7921/Lesko_Help_04_Debt_Help_Credit_Counseling_Quick_Guide.pdf"
+     "label": "HUD Counselors",
+     "href": "https://www.hud.gov"
+    },
+    {
+     "label": "FindHelp.org",
+     "href": "https://www.findhelp.org/"
     }
    ]
+  }
+ ],
+ "103063707": [
+  {
+   "type": "paragraph",
+   "html": "It's time to act after your HUD counselor appointment, now that you understand your finances and housing goals."
+  },
+  {
+   "type": "paragraph",
+   "html": "This lesson focuses on <strong>contacting organizations for housing grants and financial assistance</strong>. These programs help secure funds for down payments, closing costs, and reduced-price homes."
+  },
+  {
+   "type": "paragraph",
+   "html": "These programs are part of the <strong>\"giving economy\"</strong> — a network of government offices and nonprofits distributing funds at no cost. Unlike for-profit sites on Google, these organizations aim to help, not profit from your search."
+  },
+  {
+   "type": "heading",
+   "text": "Contact These 10 Key Organizations"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "label": "NeighborWorks",
+     "html": "Visit <a href=\"https://www.neighborworks.org\" target=\"_blank\" rel=\"noopener\">neighborworks.org</a> to find a local branch. NeighborWorks aids homebuyers with local grants, education, and resources."
+    },
+    {
+     "label": "State HFA",
+     "html": "<strong>State Housing Finance Agency (NCSHA):</strong> Visit <a href=\"https://www.ncsha.org\" target=\"_blank\" rel=\"noopener\">ncsha.org</a> to locate your state housing finance agency, which provides grants and programs. Call for assistance with your homeownership goals."
+    },
+    {
+     "label": "FHLBanks",
+     "html": "<strong>Federal Home Loan Banks:</strong> Visit <a href=\"https://www.fhlbanks.com\" target=\"_blank\" rel=\"noopener\">fhlbanks.com</a> to find your Federal Home Loan Bank, which offers grants and funding for housing, including down payment assistance. Contact them to explore options."
+    },
+    {
+     "label": "Habitat",
+     "html": "<strong>Habitat for Humanity:</strong> Check <a href=\"https://www.habitat.org\" target=\"_blank\" rel=\"noopener\">habitat.org</a> for local Habitat for Humanity offices. This program helps you purchase a home at a reduced price in exchange for volunteer work, known as \"sweat equity.\""
+    },
+    {
+     "label": "USDA RD",
+     "html": "<strong>USDA Rural Development (RD):</strong> Visit <a href=\"https://www.rd.usda.gov/\" target=\"_blank\" rel=\"noopener\">rd.usda.gov</a> for single-family housing programs in rural areas. Contact your local USDA office for information on grants and loans."
+    },
+    {
+     "label": "Community Development",
+     "html": "<strong>Community Development Offices:</strong> Contact your <strong>county's Community Development Office</strong> for grants to buy or renovate homes using federal funds. Call 211 or visit <a href=\"https://www.211.org/\" target=\"_blank\" rel=\"noopener\">211.org</a> for your local office."
+    },
+    {
+     "label": "CDFIs",
+     "html": "<strong>Community Development Financial Institutions (CDFIs):</strong> Use the CDFI locator at <a href=\"https://www.cdfifund.gov\" target=\"_blank\" rel=\"noopener\">cdfifund.gov</a> to find local banks offering grants for low-income homebuyers."
+    },
+    {
+     "label": "FindHelp",
+     "html": "<strong>FindHelp.org:</strong> Visit <a href=\"https://www.findhelp.org\" target=\"_blank\" rel=\"noopener\">findhelp.org</a> to search for local housing programs. The platform connects you with nonprofits offering free resources and grants."
+    },
+    {
+     "label": "$1 Houses",
+     "html": "<strong>Houses for $1 Program:</strong> Look for government initiatives offering foreclosed homes for $1, along with renovation grants. Contact your local HUD office for details: <a href=\"https://www.hudhomestore.gov/\" target=\"_blank\" rel=\"noopener\">https://www.hudhomestore.gov/</a>"
+    },
+    {
+     "label": "Housing Authority",
+     "html": "<strong>Local Housing Authorities:</strong> Contact your local housing authority; they often manage grant programs or partner with nonprofits for housing assistance. Here is the <a href=\"https://www.hud.gov/program_offices/public_indian_housing/pha/contacts\" target=\"_blank\" rel=\"noopener\">hud.gov</a> link."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "How to Approach These Organizations"
+  },
+  {
+   "type": "tip",
+   "html": "<strong>Call first:</strong> Most of these organizations require direct communication. Call their offices and explain your situation."
+  },
+  {
+   "type": "tip",
+   "html": "<strong>Be persistent:</strong> Not all programs will be available in your area, so you may need to make several calls to find the right fit."
+  },
+  {
+   "type": "tip",
+   "html": "<strong>Stay focused:</strong> Avoid Google searches for these resources. Stick to nonprofit and government-backed programs to avoid being redirected to for-profit services."
+  },
+  {
+   "type": "heading",
+   "text": "Start Calling Now"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "NeighborWorks",
+     "href": "https://www.neighborworks.org"
+    },
+    {
+     "label": "State Housing Finance Agencies (NCSHA)",
+     "href": "https://www.ncsha.org"
+    },
+    {
+     "label": "Federal Home Loan Banks",
+     "href": "https://www.fhlbanks.com"
+    },
+    {
+     "label": "Habitat for Humanity",
+     "href": "https://www.habitat.org"
+    },
+    {
+     "label": "USDA Rural Development (RD)",
+     "href": "https://www.rd.usda.gov"
+    },
+    {
+     "label": "Community Development Offices (also check your local government website)",
+     "href": "https://www.211.org/"
+    },
+    {
+     "label": "Community Development Financial Institutions (CDFIs)",
+     "href": "https://www.cdfifund.gov"
+    },
+    {
+     "label": "FindHelp.org",
+     "href": "https://www.findhelp.org"
+    },
+    {
+     "label": "Houses for $1 Program (contact your local HUD office)",
+     "href": "https://www.hudhomestore.gov"
+    },
+    {
+     "label": "Local Housing Authorities (search for your regional housing authority website)",
+     "href": "https://www.hud.gov/program_offices/public_indian_housing/pha/contacts"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "This step sets you on the path to securing the funds you need for your home-buying journey. Start calling today!"
+  }
+ ],
+ "103063722": [
+  {
+   "type": "heading",
+   "text": "Search for Free Car Programs in Your Area"
+  },
+  {
+   "type": "paragraph",
+   "html": "Many local nonprofits and government programs offer:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "Free vehicle giveaways"
+    },
+    {
+     "html": "Free car repairs"
+    },
+    {
+     "html": "Assistance with transportation needs"
+    }
+   ]
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "label": "Visit",
+     "html": "Go to <a href=\"http://findhelp.org\" target=\"_blank\" rel=\"noopener\">findhelp.org</a>"
+    },
+    {
+     "label": "Enter",
+     "html": "Enter your <strong>zip code</strong>"
+    },
+    {
+     "label": "Search",
+     "html": "Search <strong>“cars”</strong>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "In one example shared:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "One zip code showed <strong>32 organizations</strong> offering car-related help."
+    },
+    {
+     "html": "Tampa, Florida showed <strong>43 organizations</strong>."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Programs vary by:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "Location"
+    },
+    {
+     "html": "Available funding"
+    },
+    {
+     "html": "Type of assistance"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Your results will depend on where you live."
+  },
+  {
+   "type": "tip",
+   "html": "The key step: <strong>call the organizations directly</strong>. Take the list and start contacting them to ask about eligibility and application steps."
+  },
+  {
+   "type": "heading",
+   "text": "Expand Your Search: Emergency Financial Assistance"
+  },
+  {
+   "type": "paragraph",
+   "html": "If you do not immediately find a car-specific program, broaden your search."
+  },
+  {
+   "type": "paragraph",
+   "html": "A car repair is often considered an emergency expense — especially if you need transportation to work."
+  },
+  {
+   "type": "paragraph",
+   "html": "On <a href=\"http://findhelp.org\" target=\"_blank\" rel=\"noopener\"><strong>findhelp.org</strong></a>:"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "label": "Enter",
+     "html": "Enter your zip code"
+    },
+    {
+     "label": "Search",
+     "html": "Search <strong>“emergency financial assistance”</strong>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "In the example shared, one area showed:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "40 programs under cars"
+    },
+    {
+     "html": "71 programs under emergency financial assistance"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "This widens your options significantly."
+  },
+  {
+   "type": "heading",
+   "text": "Important Strategy"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "Programs vary by city and funding levels."
+    },
+    {
+     "html": "Assistance is not guaranteed."
+    },
+    {
+     "html": "You must actively contact organizations."
+    },
+    {
+     "html": "Focus on nonprofit and government resources."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "There are organizations designed to help people stay employed, care for their families, and overcome financial setbacks."
+  },
+  {
+   "type": "paragraph",
+   "html": "Start by searching locally, make the calls, and explore every available option."
   }
  ],
  "79122514": [
@@ -713,6 +1071,48 @@
    "html": "<strong>These steps put you on the path to securing the financial help you need.</strong> Start calling today and take control of your debt!"
   }
  ],
+ "80242726": [
+  {
+   "type": "paragraph",
+   "html": "Starting a nonprofit can be overwhelming—especially when looking for funding, legal guidance, and expert support. But here’s the secret: <strong>don’t start by searching on Google.</strong> Most results will be businesses trying to sell you something, not the free help you actually need."
+  },
+  {
+   "type": "paragraph",
+   "html": "Instead, <strong>go where nonprofits and government agencies provide expert assistance—for free.</strong>"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Free Nonprofit Help guide (PDF download)",
+     "href": "https://media2-production.mightynetworks.com/asset/580bcf66-4256-4f00-971f-de4ccb0395a0/Lesko_Help_CB_B01_Free_Nonprofit_Help.pdf"
+    },
+    {
+     "label": "Free Nonprofit Help guide (view on Google Drive)",
+     "href": "https://drive.google.com/file/d/1INdivbAIgvpD9T_2qE2ejoWSae-J2Hs6/view?usp=sharing"
+    }
+   ]
+  }
+ ],
+ "80242727": [
+  {
+   "type": "paragraph",
+   "html": "Many people think starting a nonprofit is complicated and expensive, but that’s not true! You can legally register a nonprofit in <strong>just 20 minutes for $275</strong> — without hiring expensive lawyers or consultants."
+  },
+  {
+   "type": "paragraph",
+   "html": "This step walks you through the exact process to <strong>file your nonprofit status, avoid unnecessary fees, and get help directly from the IRS.</strong>"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Register Your Nonprofit (PDF guide)",
+     "href": "https://media2-production.mightynetworks.com/asset/64a0eb4f-6125-4b19-b3e6-9788c695be29/Lesko_Help_CB_B02_Register_Your_Nonprofit.pdf"
+    }
+   ]
+  }
+ ],
  "83136879": [
   {
    "type": "paragraph",
@@ -1290,6 +1690,1613 @@
   {
    "type": "paragraph",
    "html": "You’re building smart — keep going."
+  }
+ ],
+ "83137019": [
+  {
+   "type": "paragraph",
+   "html": "If you're a business owner from a <strong>minority background</strong> or part of an <strong>underserved community</strong>, there are powerful resources available to support your growth. These include <strong>free business centers, mentorship, targeted grants, retail partnerships</strong>, and national accelerators — many of which are not widely known."
+  },
+  {
+   "type": "paragraph",
+   "html": "This lesson pulls together the best options for support, funding, and certification to help you thrive."
+  },
+  {
+   "type": "heading",
+   "text": "Business Centers &amp; Support Services"
+  },
+  {
+   "type": "paragraph",
+   "html": "These organizations provide <strong>direct, hands-on help</strong> — from business planning and funding prep to certification support and federal contract guidance."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.mbda.gov/business-resources/business-centers\" target=\"_blank\" rel=\"noopener\">MBDA Business Centers</a> — connect with a local <strong>Minority Business Development Agency (MBDA)</strong> center for strategic support, grant navigation, and growth opportunities."
+    },
+    {
+     "html": "<a href=\"https://www.mbda.gov/business-resources\" target=\"_blank\" rel=\"noopener\">MBDA Business Resources</a> — full directory of tools, partners, and federal programs for minority-owned businesses."
+    },
+    {
+     "html": "<a href=\"https://www.sba.gov/business-guide/grow-your-business/minority-owned-businesses\" target=\"_blank\" rel=\"noopener\">SBA: Minority-Owned Business Guide</a> — explore how the <strong>Small Business Administration</strong> supports minority business owners through funding, certifications, and development programs."
+    },
+    {
+     "html": "<a href=\"https://tcmet.org/\" target=\"_blank\" rel=\"noopener\">Center for Micro-Entrepreneurial Training</a> — a practical, hands-on support center for micro-businesses and early-stage entrepreneurs from underserved communities."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Grants &amp; Funding for Minority Entrepreneurs"
+  },
+  {
+   "type": "paragraph",
+   "html": "These opportunities are tailored specifically to <strong>Black, Latino, Indigenous, and other underrepresented business owners</strong>. Some offer funding, while others provide training and visibility."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.mbda.gov/financial-resources/capital-readiness-program\" target=\"_blank\" rel=\"noopener\">Capital Readiness Program – MBDA</a> — supports entrepreneurs in preparing for investment and funding with business development training and capital access."
+    },
+    {
+     "html": "<a href=\"https://naacp.org/find-resources/grants/powershift-entrepreneur-grant\" target=\"_blank\" rel=\"noopener\">NAACP Powershift Entrepreneur Grant</a> — direct grant support for Black entrepreneurs with scalable business ideas."
+    },
+    {
+     "html": "<a href=\"https://sell.amazon.com/programs/black-business-accelerator\" target=\"_blank\" rel=\"noopener\">Amazon Black Business Accelerator</a> — exclusive access to funding, training, and marketing support for <strong>Black-owned brands selling on Amazon</strong>."
+    },
+    {
+     "html": "<a href=\"https://rebuildtheblock.org/\" target=\"_blank\" rel=\"noopener\">Rebuild The Block</a> — emergency grants and community funding for Black entrepreneurs."
+    },
+    {
+     "html": "<a href=\"https://galaxyofstars.org/galaxy-grants/\" target=\"_blank\" rel=\"noopener\">Galaxy Grants</a> — small business funding with a focus on <strong>women and minority founders</strong>."
+    },
+    {
+     "html": "<a href=\"https://operationhope.org/1-million-black-businesses/\" target=\"_blank\" rel=\"noopener\">Operation Hope – 1 Million Black Businesses</a> — a national initiative to launch and grow Black-owned businesses, offering coaching, training, and support."
+    },
+    {
+     "html": "<a href=\"https://goldhouse.org/gold-house-ventures/\" target=\"_blank\" rel=\"noopener\">Gold House Ventures</a> — resources and funding for <strong>Asian and Pacific Islander founders</strong> through venture capital and mentorship."
+    },
+    {
+     "html": "<a href=\"https://watson.is/retail-readiness-program-application/\" target=\"_blank\" rel=\"noopener\">Retail Readiness Program – Watson</a> — helps underrepresented entrepreneurs get ready to pitch, scale, and distribute through retail partnerships."
+    },
+    {
+     "html": "<a href=\"https://pathwaytoopportunity.com/\" target=\"_blank\" rel=\"noopener\">Pathway to Opportunity</a> — grant and mentorship platform focused on Black, Latino, and underserved entrepreneurs."
+    },
+    {
+     "html": "<a href=\"https://blackambitionprize.com/\" target=\"_blank\" rel=\"noopener\">Black Ambition</a> — major funding and mentorship prize for innovative Black and Latinx-led businesses."
+    },
+    {
+     "html": "<a href=\"https://www.transformgrant.org/the-grant/\" target=\"_blank\" rel=\"noopener\">The Grant – TRANSFORM</a> — funds projects that <strong>center justice, racial equity, and systemic change</strong> in underserved communities."
+    },
+    {
+     "html": "<a href=\"https://nbmbaa.org/scale-up-pitch-challenge/\" target=\"_blank\" rel=\"noopener\">Scale-Up Pitch Challenge – NBMBAA</a> — pitch competition for <strong>Black MBA entrepreneurs</strong>, offering exposure and investment."
+    },
+    {
+     "html": "<a href=\"https://supportlatino.biz/2024-support-latino-business-impact-fund-grants/\" target=\"_blank\" rel=\"noopener\">2024 Support Latino Business Impact Fund</a> — funding opportunity for <strong>Latino-owned businesses</strong> with community-focused missions."
+    },
+    {
+     "html": "<a href=\"https://pepsicojuntoscrecemos.com/\" target=\"_blank\" rel=\"noopener\">Juntos Crecemos – PepsiCo</a> — marketing and business development support for <strong>Latino small businesses</strong> in the food and beverage industry."
+    },
+    {
+     "html": "<a href=\"https://www.wish.com/local/empowerment\" target=\"_blank\" rel=\"noopener\">Wish Local Empowerment Program</a> — microgrants and visibility for <strong>underrepresented small businesses</strong> that sell locally."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Certification &amp; Business Identity"
+  },
+  {
+   "type": "paragraph",
+   "html": "Certification can unlock <strong>government contracts, corporate supplier lists, and special funding programs</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.mwbe-enterprises.com/minority-business-enterprise-mbe-certification/\" target=\"_blank\" rel=\"noopener\">MBE Certification – Minority Business Enterprise</a> — learn how to get certified as a minority-owned business and expand your funding and contract opportunities."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Industry-Specific Grants &amp; Opportunities"
+  },
+  {
+   "type": "paragraph",
+   "html": "Some industries offer their own grant programs to lift up minority voices and innovative products. Explore these options based on your field."
+  },
+  {
+   "type": "heading",
+   "text": "Cosmetics &amp; Retail"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<em>MUSE Accelerator</em> (hosted by Ulta Beauty)"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Manufacturing, Export &amp; Procurement"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.mbda.gov/business-resources/specialty-centers\" target=\"_blank\" rel=\"noopener\">MBDA Specialty Centers</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Restaurants &amp; Food Businesses"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://sietefoods.com/pages/sietejuntosfund\" target=\"_blank\" rel=\"noopener\">Siete Juntos Fund</a>"
+    },
+    {
+     "html": "<a href=\"https://www.leeinitiative.org/\" target=\"_blank\" rel=\"noopener\">The LEE Initiative</a>"
+    },
+    {
+     "html": "<a href=\"https://www.aapistrong.com/aapistrong-restaurant-fund\" target=\"_blank\" rel=\"noopener\">AAPISTRONG Restaurant Fund – National ACE</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Your Next Move"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "label": "Shortlist",
+     "html": "Identify <strong>3 opportunities</strong> that align with your identity, industry, or mission."
+    },
+    {
+     "label": "Track",
+     "html": "Start a dedicated <strong>“Grant Tracker”</strong> to keep tabs on deadlines and requirements."
+    },
+    {
+     "label": "Certify",
+     "html": "Consider <strong>certifying your business</strong> as minority-owned to unlock new funding channels."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "In the next lesson, we’ll explore tailored resources for <strong>farmers, ranchers, and rural entrepreneurs</strong> — because big dreams grow in small towns, too."
+  },
+  {
+   "type": "paragraph",
+   "html": "You are building more than a business. You’re building change."
+  }
+ ],
+ "83137050": [
+  {
+   "type": "paragraph",
+   "html": "Whether you're running a family farm, starting a regenerative ranch, or growing a small agriculture business from scratch, there is an abundance of support available to you — from the USDA, nonprofits, and mission-aligned foundations."
+  },
+  {
+   "type": "paragraph",
+   "html": "This lesson covers <strong>every tool you need</strong>: local offices, business mentors, planning guides, funding programs, land grant partnerships, tax tips, and more. It's long because the opportunity is <em>big</em>. Let's dig in."
+  },
+  {
+   "type": "heading",
+   "text": "Local Support &amp; Agriculture Service Centers"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.farmers.gov/working-with-us/service-center-locator\" target=\"_blank\" rel=\"noopener\">Find Your Local USDA Service Center</a> — start here to connect with <strong>local field offices</strong> for help with loans, grants, insurance, and farm planning."
+    },
+    {
+     "html": "<a href=\"https://www.rd.usda.gov/\" target=\"_blank\" rel=\"noopener\">USDA Rural Development</a> — explore a wide range of development, infrastructure, and <strong>business programs for rural entrepreneurs</strong>."
+    },
+    {
+     "html": "<a href=\"https://www.fsa.usda.gov/state-offices\" target=\"_blank\" rel=\"noopener\">Farm Service Agency State Offices</a> — state-specific programs, loan services, and disaster relief resources for all types of farmers."
+    },
+    {
+     "html": "<a href=\"https://www.farmers.gov/your-business/beginning-farmers\" target=\"_blank\" rel=\"noopener\">Beginning Farmers &amp; Ranchers Hub</a> — USDA's starting point for new farmers, with education, grants, and coordinated entry programs."
+    },
+    {
+     "html": "<a href=\"https://www.nasda.org/about-nasda/state-agriculture-departments/\" target=\"_blank\" rel=\"noopener\">Your State Agriculture Department</a> — search by state to find <strong>specific license requirements, safety programs</strong>, and technical support."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Health, Safety &amp; Regulations"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.aphis.usda.gov/aphis/home/\" target=\"_blank\" rel=\"noopener\">USDA APHIS (Animal &amp; Plant Health)</a>"
+    },
+    {
+     "html": "<a href=\"https://www.usda.gov/about-food/food-safety/health-and-safety\" target=\"_blank\" rel=\"noopener\">USDA Food Health &amp; Safety</a>"
+    },
+    {
+     "html": "<a href=\"https://www.nifa.usda.gov/grants/programs/farm-safety\" target=\"_blank\" rel=\"noopener\">NIFA Farm Safety Programs</a>"
+    },
+    {
+     "html": "<a href=\"https://www.nifa.usda.gov/topics/agricultural-safety\" target=\"_blank\" rel=\"noopener\">Agricultural Safety Topic Hub</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Learn, Plan, and Build"
+  },
+  {
+   "type": "heading",
+   "text": "Mentors &amp; State Support"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.rd.usda.gov/about-rd/offices/state-offices\" target=\"_blank\" rel=\"noopener\">Rural Development State Offices</a>"
+    },
+    {
+     "html": "<a href=\"https://www.farmers.gov/your-business/beginning-farmers/coordinators\" target=\"_blank\" rel=\"noopener\">Beginning Farmer &amp; Rancher Coordinators</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Business Planning &amp; Education"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.farmers.gov/your-business/beginning-farmers/business-plan\" target=\"_blank\" rel=\"noopener\">Plan Your Farm Business | USDA</a>"
+    },
+    {
+     "html": "<a href=\"https://www.sba.gov/business-guide/plan-your-business\" target=\"_blank\" rel=\"noopener\">SBA Business Planning Guide</a>"
+    },
+    {
+     "html": "<a href=\"https://www.sare.org/resources/building-a-sustainable-business/\" target=\"_blank\" rel=\"noopener\">SARE: Building a Sustainable Business</a>"
+    },
+    {
+     "html": "<a href=\"https://attra.ncat.org/publication-library/\" target=\"_blank\" rel=\"noopener\">ATTRA Sustainable Agriculture Library</a>"
+    },
+    {
+     "html": "<a href=\"https://www.edible-alpha.org/\" target=\"_blank\" rel=\"noopener\">Edible-Alpha Podcast</a>"
+    },
+    {
+     "html": "<a href=\"https://landstewardshipproject.org/new-farmers/\" target=\"_blank\" rel=\"noopener\">Land Stewardship Project</a>"
+    },
+    {
+     "html": "<a href=\"https://www.nifa.usda.gov/land-grant-colleges-and-universities-partner-website-directory\" target=\"_blank\" rel=\"noopener\">NIFA Land-Grant University Directory</a>"
+    },
+    {
+     "html": "<a href=\"https://grants.ofrf.org/\" target=\"_blank\" rel=\"noopener\">OFRF Research Grants Database</a>"
+    },
+    {
+     "html": "<a href=\"https://caas.usu.edu/\" target=\"_blank\" rel=\"noopener\">USU College of Agriculture</a>"
+    },
+    {
+     "html": "<a href=\"https://www.score.org/startup-roadmap\" target=\"_blank\" rel=\"noopener\">SCORE Startup Roadmap</a>"
+    },
+    {
+     "html": "<a href=\"https://www.score.org/usda\" target=\"_blank\" rel=\"noopener\">USDA | SCORE Collaboration</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Grant &amp; Loan Programs"
+  },
+  {
+   "type": "heading",
+   "text": "General Funding Tools"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.nal.usda.gov/economics-business-and-trade/small-farm-funding-guide\" target=\"_blank\" rel=\"noopener\">Small Farm Funding Guide</a>"
+    },
+    {
+     "html": "<a href=\"https://www.nal.usda.gov/economics-business-and-trade/agricultural-funding-resources-topic\" target=\"_blank\" rel=\"noopener\">Topic-Based Ag Funding</a>"
+    },
+    {
+     "html": "<a href=\"https://www.usda.gov/topics/farming/grants-and-loans\" target=\"_blank\" rel=\"noopener\">USDA Grants &amp; Loans Portal</a>"
+    },
+    {
+     "html": "<a href=\"https://www.rd.usda.gov/programs-services/all-programs\" target=\"_blank\" rel=\"noopener\">All Rural Development Programs</a>"
+    },
+    {
+     "html": "<a href=\"https://portal.nifa.usda.gov/lmd4/projects\" target=\"_blank\" rel=\"noopener\">Projects &amp; Research Grants</a>"
+    },
+    {
+     "html": "<a href=\"https://www.fsa.usda.gov/programs-and-services/farm-loan-programs\" target=\"_blank\" rel=\"noopener\">FSA Farm Loan Programs</a>"
+    },
+    {
+     "html": "<a href=\"https://www.ams.usda.gov/services/grants\" target=\"_blank\" rel=\"noopener\">Marketing &amp; Promotion Grants</a>"
+    },
+    {
+     "html": "<a href=\"https://www.rd.usda.gov/programs-services/business-programs/value-added-producer-grants\" target=\"_blank\" rel=\"noopener\">Value-Added Producer Grants</a>"
+    },
+    {
+     "html": "<a href=\"https://www.rd.usda.gov/programs-services/business-programs/rural-business-development-grants\" target=\"_blank\" rel=\"noopener\">Rural Business Development Grants</a>"
+    },
+    {
+     "html": "<a href=\"https://www.fsa.usda.gov/programs-and-services/price-support/facility-loans/farm-storage/\" target=\"_blank\" rel=\"noopener\">Farm Storage Facility Loans</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Specialized Funding"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.benefits.gov/benefit/5976\" target=\"_blank\" rel=\"noopener\">Emergency Assistance – ELAP</a>"
+    },
+    {
+     "html": "<a href=\"https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/initiatives/?cid=nrcs142p2_015532\" target=\"_blank\" rel=\"noopener\">Seasonal High Tunnel Initiative (NRCS)</a>"
+    },
+    {
+     "html": "<a href=\"https://www.benefits.gov/benefit/392\" target=\"_blank\" rel=\"noopener\">Rural Housing Loans &amp; Grants</a>"
+    },
+    {
+     "html": "<a href=\"https://www.beginningfarmers.org/funding-resources/\" target=\"_blank\" rel=\"noopener\">Grants Directory for Farmers</a>"
+    },
+    {
+     "html": "<a href=\"https://fruitguyscommunityfund.org/apply/\" target=\"_blank\" rel=\"noopener\">FruitGuys Community Fund</a>"
+    },
+    {
+     "html": "<a href=\"https://www.farmaid.org/our-work/grant-guidelines/\" target=\"_blank\" rel=\"noopener\">Farm Aid | Grants for Nonprofits</a>"
+    },
+    {
+     "html": "<a href=\"https://www.rafiusa.org/programs/farm_advocacy/resourcesforfarmers/grants-and-cost-share-opportunities/\" target=\"_blank\" rel=\"noopener\">Grant &amp; Cost-Share Opportunities | RAFI-USA</a>"
+    },
+    {
+     "html": "<a href=\"https://www.youngfarmers.org/youngfarmergrants/\" target=\"_blank\" rel=\"noopener\">Young Farmer Grant Program</a>"
+    },
+    {
+     "html": "<a href=\"https://www.buylocalfood.org/resources-for-farmers/grants-and-financing/other-grant-opportunities/\" target=\"_blank\" rel=\"noopener\">CISA Grant List</a>"
+    },
+    {
+     "html": "<a href=\"https://attra.ncat.org/category/funding/\" target=\"_blank\" rel=\"noopener\">ATTRA Grant Portal</a>"
+    },
+    {
+     "html": "<a href=\"https://www.farmaid.org/our-work/resources-for-farmers/\" target=\"_blank\" rel=\"noopener\">Farm Aid Resources</a>"
+    },
+    {
+     "html": "<a href=\"https://www.pgpf.org/what-we-are-doing/grants-and-projects\" target=\"_blank\" rel=\"noopener\">PGPF | Agricultural Projects</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Real-Life Rural Support"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://farmanswers.org/\" target=\"_blank\" rel=\"noopener\">Farm Answers Knowledge Hub</a>"
+    },
+    {
+     "html": "<a href=\"https://foodfinanceinstitute.org/\" target=\"_blank\" rel=\"noopener\">Food Finance Institute</a>"
+    },
+    {
+     "html": "<a href=\"https://www.t-mobile.com/brand/hometown-grants\" target=\"_blank\" rel=\"noopener\">T-Mobile Hometown Grant Program</a>"
+    },
+    {
+     "html": "<a href=\"https://www.score.org/resource/blog-post/12-funding-options-rural-entrepreneurs\" target=\"_blank\" rel=\"noopener\">12 Funding Options for Rural Entrepreneurs | SCORE</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Legal, Tax &amp; Operational Help"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://farmcommons.org/pathway/im-not-sure-which-business-structure-is-the-right-one-for-my-farm-ranch-where-do-i-start/\" target=\"_blank\" rel=\"noopener\">Choosing the Right Business Structure | Farm Commons</a>"
+    },
+    {
+     "html": "<a href=\"https://www.fsa.usda.gov/resources/price-support\" target=\"_blank\" rel=\"noopener\">Price Support Programs | FSA</a>"
+    },
+    {
+     "html": "<a href=\"https://www.rma.usda.gov/\" target=\"_blank\" rel=\"noopener\">Risk Management Agency</a>"
+    },
+    {
+     "html": "<a href=\"https://www.nrcs.usda.gov/\" target=\"_blank\" rel=\"noopener\">Natural Resources Conservation Service</a>"
+    },
+    {
+     "html": "<a href=\"https://www.farmers.gov/your-business/taxes\" target=\"_blank\" rel=\"noopener\">Tax Info for Farmers &amp; Ranchers</a>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "You're not just feeding people — you're feeding the future. There are <strong>grants, mentors, plans, and funds</strong> ready to support your vision."
+  }
+ ],
+ "83137068": [
+  {
+   "type": "paragraph",
+   "html": "Veterans bring grit, leadership, and vision to entrepreneurship—and there are <strong>powerful resources</strong> out there to help you thrive. This guide is your jump-off point into specialized funding, federal contracting opportunities, job training, and mentorship designed specifically for veterans and military families."
+  },
+  {
+   "type": "paragraph",
+   "html": "Whether you're launching a small business, transitioning from service, or growing a farm—here’s your roadmap."
+  },
+  {
+   "type": "heading",
+   "text": "Mentorship &amp; Outreach Programs"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://business.defense.gov/Programs/Mentor-Protege-Program/Contacts/\" target=\"_blank\" rel=\"noopener\">DoD OSBP Mentor-Protégé Program</a> — Personalized mentoring to help veteran-owned businesses succeed in the defense supply chain."
+    },
+    {
+     "html": "<a href=\"https://www.sba.gov/local-assistance/resource-partners/veterans-business-outreach-center-vboc-program\" target=\"_blank\" rel=\"noopener\">Veterans Business Outreach Centers (VBOC)</a> — SBA-funded centers offer <strong>business training, counseling, and mentorship</strong> for veterans and their families."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Service Centers &amp; Support Offices"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "USACE Small Business Program",
+     "href": "https://www.usace.army.mil/Business-With-Us/Small-Business/"
+    },
+    {
+     "label": "DoD Small Business Offices",
+     "href": "https://business.defense.gov/Acquisition/Small-Business-Offices/"
+    },
+    {
+     "label": "Air Force Small Business",
+     "href": "https://www.airforcesmallbiz.af.mil/"
+    },
+    {
+     "label": "DTRA Small Business",
+     "href": "https://www.dtra.mil/Business/Office-of-Small-Business/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Business &amp; Career Development"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Veterans Employment Services | Dept. of Labor",
+     "href": "https://www.dol.gov/agencies/vets/veterans/veterans-employment-services"
+    },
+    {
+     "label": "VETS Programs | Dept. of Labor",
+     "href": "https://www.dol.gov/agencies/vets"
+    },
+    {
+     "label": "Veteran Resources | Dept. of the Interior",
+     "href": "https://www.doi.gov/veterans/vetresources"
+    },
+    {
+     "label": "SBA Guide for Veteran-Owned Businesses",
+     "href": "https://www.sba.gov/business-guide/grow-your-business/veteran-owned-businesses"
+    },
+    {
+     "label": "Contracting Assistance | SBA",
+     "href": "https://www.sba.gov/federal-contracting/contracting-assistance-programs"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Boots to Business &amp; Reboot Programs"
+  },
+  {
+   "type": "paragraph",
+   "html": "Your pathway to business ownership starts here. These <strong>intro-level courses</strong> are designed for transitioning service members, veterans, and military spouses."
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Boots to Business | SBA",
+     "href": "https://www.sba.gov/sba-learning-platform/boots-business"
+    },
+    {
+     "label": "Boots to Business Reboot",
+     "href": "https://vboc.org/boots-to-business-b2b/"
+    },
+    {
+     "label": "Revenue Readiness Course",
+     "href": "https://sba.my.site.com/s/rr-msu-course-information"
+    },
+    {
+     "label": "Course Calendar",
+     "href": "https://sba.my.site.com/s/calendar"
+    },
+    {
+     "label": "Reboot Course Info",
+     "href": "https://sba.my.site.com/s/reboot-course-information"
+    },
+    {
+     "label": "B2B Course Info",
+     "href": "https://sba.my.site.com/s/b2b-course-information"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Program Offices for Veterans"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Army Office of Small Business Programs",
+     "href": "https://www.army.mil/osbp"
+    },
+    {
+     "label": "Defense Office of Small Business Programs",
+     "href": "https://business.defense.gov/"
+    },
+    {
+     "label": "Defense Human Resources Activity",
+     "href": "https://www.dhra.mil/SB/small-business-goals/"
+    },
+    {
+     "label": "DMA Small Business Office",
+     "href": "https://www.dma.mil/Small-Business-Office/"
+    },
+    {
+     "label": "DIA Small Business Office",
+     "href": "https://www.dia.mil/business/office-of-small-business-programs/"
+    },
+    {
+     "label": "USTRANSCOM OSBP",
+     "href": "https://www.ustranscom.mil/dbw/osbp.cfm"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Innovation &amp; Research Grants"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "DARPA SBIR &amp; STTR Programs",
+     "href": "https://www.darpa.mil/work-with-us/communities/small-business/sbir-sttr-overview"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Veteran-Focused Grant Opportunities"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Hiring Our Heroes – Small Business Grant",
+     "href": "https://www.hiringourheroes.org/small-business-grant/"
+    },
+    {
+     "label": "StreetShares Foundation Veteran Business Award",
+     "href": "https://usbusinessgrants.org/grants/streetshares-small-business-award.html"
+    },
+    {
+     "label": "Contracting with the DoD | NAVFAC",
+     "href": "https://www.navfac.navy.mil/Business-Lines/Office-of-Small-Business-Programs/Opportunities/Contracting-Guidelines/Contracting-with-DoD/"
+    },
+    {
+     "label": "Second Service Foundation | Military Entrepreneur Challenge",
+     "href": "https://secondservicefoundation.org/mec/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Educational Resources &amp; Guides"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Dept. of Commerce | Develop Your Business (PDF)",
+     "href": "https://www.bis.doc.gov/index.php/documents/technology-evaluation/776-business-development/file"
+    },
+    {
+     "label": "Doing Business with DoDEA",
+     "href": "https://www.dodea.edu/offices/procurement/doing-business-dodea"
+    },
+    {
+     "label": "Understanding DoD Contracting | MxD",
+     "href": "https://www.mxdusa.org/2020/04/29/defense-contracting-decoding-the-abcs-of-the-dod/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Veterans in Farming &amp; Beekeeping"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Veterans in Agriculture</strong> — Explore programs supporting veterans in agriculture, beekeeping, and food production. See <a href=\"https://news.va.gov/\" target=\"_blank\" rel=\"noopener\">VA News</a> or your local <a href=\"https://www.farmers.gov/working-with-us/service-center-locator\" target=\"_blank\" rel=\"noopener\">USDA offices</a>."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Extra Resources &amp; Job Boards"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.dodciviliancareers.com/\" target=\"_blank\" rel=\"noopener\">DOD Careers &amp; Transition Tools</a>"
+    },
+    {
+     "html": "USAJOBS for Veterans"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Veterans bring strength, innovation, and resilience to business. You’ve served your country—now let these resources serve your next mission."
+  }
+ ],
+ "83137095": [
+  {
+   "type": "paragraph",
+   "html": "From federal grant databases to targeted funding from energy, labor, and health departments, this section connects you to some of the most powerful opportunities available to business owners across the country."
+  },
+  {
+   "type": "heading",
+   "text": "Grant Databases"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://sam.gov/\" target=\"_blank\" rel=\"noopener\"><strong>SAM.gov</strong></a> — The official U.S. government system for contract and award data. Register here to apply for federal contracts and financial assistance programs."
+    },
+    {
+     "html": "<a href=\"https://www.grants.gov/\" target=\"_blank\" rel=\"noopener\"><strong>Grants.gov</strong></a> — Your central portal for discovering and applying to federal grants across all agencies."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Department of Energy"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.eda.gov/funding/funding-opportunities/all-opportunities\" target=\"_blank\" rel=\"noopener\"><strong>All DOE &amp; EDA Funding Opportunities</strong></a> — Browse current open calls from the U.S. Economic Development Administration."
+    },
+    {
+     "html": "<a href=\"https://www.energy.gov/osdbu/office-small-and-disadvantaged-business-utilization\" target=\"_blank\" rel=\"noopener\"><strong>Office of Small &amp; Disadvantaged Business Utilization</strong></a> — Focused support for minority, women-owned, and disadvantaged businesses."
+    },
+    {
+     "html": "<a href=\"https://netl.doe.gov/small-business\" target=\"_blank\" rel=\"noopener\"><strong>Small Business First | NETL</strong></a> — Partner with national labs through this Department of Energy small business initiative."
+    },
+    {
+     "html": "<a href=\"https://www.energy.gov/osdbu/doing-business-doe\" target=\"_blank\" rel=\"noopener\"><strong>Doing Business with DOE</strong></a> — Step-by-step info on becoming a DOE supplier or grant recipient."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Department of Labor"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.dol.gov/grants\" target=\"_blank\" rel=\"noopener\"><strong>Department of Labor Grants</strong></a> — Programs supporting workforce development, apprenticeships, and labor market improvement."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "National Institutes of Health (NIH)"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://seed.nih.gov/small-business-funding\" target=\"_blank\" rel=\"noopener\"><strong>Small Business Funding | SEED</strong></a> — Find seed-stage NIH funding for biomedical innovations."
+    },
+    {
+     "html": "<a href=\"https://grants.nih.gov/funding/funding-categories/small-business\" target=\"_blank\" rel=\"noopener\"><strong>NIH Small Business Grants Overview</strong></a> — Key opportunities and pathways for life sciences, healthtech, and biotech entrepreneurs."
+    },
+    {
+     "html": "<a href=\"https://seed.nih.gov/\" target=\"_blank\" rel=\"noopener\"><strong>NIH’s SEED SBIR &amp; STTR Hub</strong></a> — Learn about their small business innovation programs and how to get started."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "SBIR &amp; STTR: America’s Innovation Engine"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.sbir.gov/\" target=\"_blank\" rel=\"noopener\"><strong>SBIR.gov Main Hub</strong></a> — The go-to platform for Small Business Innovation Research and Technology Transfer programs."
+    },
+    {
+     "html": "<a href=\"https://www.sbir.gov/sites/all/themes/sbir/dawnbreaker/img/documents/Course1-Tutorial3.pdf\" target=\"_blank\" rel=\"noopener\"><strong>SBIR vs STTR: Which One?</strong></a> — A helpful guide to decide between SBIR or STTR funding paths."
+    },
+    {
+     "html": "<a href=\"https://www.sbir.gov/about\" target=\"_blank\" rel=\"noopener\"><strong>About SBIR/STTR Programs</strong></a> — Learn how these programs foster innovation and economic growth."
+    },
+    {
+     "html": "<a href=\"https://www.sbir.gov/apply\" target=\"_blank\" rel=\"noopener\"><strong>Apply to SBIR</strong></a> — Direct application portal."
+    },
+    {
+     "html": "<a href=\"https://www.sbir.gov/lab2market\" target=\"_blank\" rel=\"noopener\"><strong>Lab to Market Hub</strong></a> — Resources to bring your research or tech from idea to marketplace."
+    }
+   ]
+  }
+ ],
+ "83137118": [
+  {
+   "type": "paragraph",
+   "html": "If you’re looking for growth support, mentorship, funding—or all three—these platforms and programs can help you take your business idea to the next level. Whether you’re an early-stage startup or ready to scale, these are some of the best places to start."
+  },
+  {
+   "type": "heading",
+   "text": "Startup Accelerators &amp; Incubators"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://angelpad.com/\" target=\"_blank\" rel=\"noopener\"><strong>AngelPad</strong></a> — A boutique accelerator for seed-stage startups in tech, product, and SaaS."
+    },
+    {
+     "html": "<a href=\"https://www.techstars.com/\" target=\"_blank\" rel=\"noopener\"><strong>Techstars</strong></a> — Global startup accelerator with industry-specific programs and a powerful mentor network."
+    },
+    {
+     "html": "<a href=\"https://www.startupschool.org/\" target=\"_blank\" rel=\"noopener\"><strong>Startup School by Y Combinator</strong></a> — Free online program with tools and weekly mentorship for founders at any stage."
+    },
+    {
+     "html": "<a href=\"https://techranchaustin.com/\" target=\"_blank\" rel=\"noopener\"><strong>Tech Ranch Austin</strong></a> — Entrepreneur community and incubator based in Austin, focused on impact-driven startups."
+    },
+    {
+     "html": "<a href=\"https://masschallenge.org/\" target=\"_blank\" rel=\"noopener\"><strong>MassChallenge</strong></a> — A no-equity accelerator that supports high-impact, early-stage startups across sectors."
+    },
+    {
+     "html": "<a href=\"https://polsky.uchicago.edu/programs-events/new-venture-challenge/\" target=\"_blank\" rel=\"noopener\"><strong>New Venture Challenge – Polsky Center</strong></a> — University of Chicago’s top-tier accelerator with $1M+ in investments each year."
+    },
+    {
+     "html": "<a href=\"https://www.mainstventures.org/\" target=\"_blank\" rel=\"noopener\"><strong>Main Street Ventures</strong></a> — Provides capital, connections, and resources to early-stage entrepreneurs in underserved areas."
+    },
+    {
+     "html": "<a href=\"https://mucker.com/accelerator/\" target=\"_blank\" rel=\"noopener\"><strong>Mucker Capital Accelerator</strong></a> — Invests and works hands-on with companies at the earliest stages outside of Silicon Valley."
+    },
+    {
+     "html": "<a href=\"https://www.fintechinnovationlab.com/\" target=\"_blank\" rel=\"noopener\"><strong>FinTech Innovation Lab</strong></a> — A 12-week accelerator for early and growth-stage fintech startups with enterprise potential."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Angel Networks &amp; Early-Stage Investors"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.angelinvestmentnetwork.us/\" target=\"_blank\" rel=\"noopener\"><strong>Angel Investment Network</strong></a> — Connects entrepreneurs with a global network of private investors."
+    },
+    {
+     "html": "<a href=\"https://www.funded.com/\" target=\"_blank\" rel=\"noopener\"><strong>Funded.com – Angel Investors Directory</strong></a> — A platform that links small businesses with angel investors across the U.S."
+    },
+    {
+     "html": "<a href=\"https://www.invstor.com/\" target=\"_blank\" rel=\"noopener\"><strong>Invstor.com</strong></a> — Online network for entrepreneurs, investors, advisors, and business partners."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Non-Traditional Business Funding"
+  },
+  {
+   "type": "paragraph",
+   "html": "Not every great idea fits the mold—and not every business needs a bank loan or venture capital to grow. Non-traditional funding opens doors through alternative pathways like <strong>crowdfunding, pitch competitions, revenue-based financing, community development funds, peer-to-peer lending</strong>, and even <strong>business grants from brands or nonprofits</strong>."
+  },
+  {
+   "type": "paragraph",
+   "html": "These options often provide <strong>more flexibility</strong>, <strong>less pressure</strong>, and a <strong>stronger alignment with mission-driven or underserved entrepreneurs</strong>—making them ideal for founders who want creative capital without giving up control."
+  }
+ ],
+ "83137128": [
+  {
+   "type": "paragraph",
+   "html": "Crowdfunding is a modern way to raise money for your business by rallying support from individuals who believe in your idea — whether they are future customers, friends, family, or total strangers. It works especially well when you have a compelling story, a passionate mission, or a product people are excited about."
+  },
+  {
+   "type": "paragraph",
+   "html": "There are different types of crowdfunding:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Donation-based</strong> (people support you without expecting anything in return)"
+    },
+    {
+     "html": "<strong>Reward-based</strong> (supporters get early access, perks, or products)"
+    },
+    {
+     "html": "<strong>Equity-based</strong> (backers become investors in your company)"
+    },
+    {
+     "html": "<strong>Debt-based</strong> (you repay the funds like a loan)"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Crowdfunding can work for product launches, local businesses, creative projects, and more."
+  },
+  {
+   "type": "heading",
+   "text": "General Business Crowdfunding"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.gofundme.com/c/start/business-fundraising\" target=\"_blank\" rel=\"noopener\"><strong>GoFundMe - Business Fundraising</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.indiegogo.com/\" target=\"_blank\" rel=\"noopener\"><strong>Indiegogo</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.kickstarter.com/\" target=\"_blank\" rel=\"noopener\"><strong>Kickstarter</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://circleup.com/\" target=\"_blank\" rel=\"noopener\"><strong>CircleUp</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.nextseed.com/\" target=\"_blank\" rel=\"noopener\"><strong>NextSeed</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://wefunder.com/\" target=\"_blank\" rel=\"noopener\"><strong>Wefunder</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://fundrazr.com/pages/white-label-crowdfunding-platform\" target=\"_blank\" rel=\"noopener\"><strong>FundRazr - White Label Crowdfunding Solutions</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Find Even More Opportunities"
+  },
+  {
+   "type": "tip",
+   "html": "Below you'll find fundraising opportunities for whatever you're trying to raise funds for."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://fundsnetservices.com/fundraisers\" target=\"_blank\" rel=\"noopener\"><strong>Fundraising Directory 2025</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Real Estate Crowdfunding"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.therealestatecrowdfundingreview.com/\" target=\"_blank\" rel=\"noopener\"><strong>Real Estate Crowdfunding Review</strong></a>"
+    },
+    {
+     "html": "<a href=\"https://www.realtymogul.com/\" target=\"_blank\" rel=\"noopener\"><strong>RealtyMogul</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Crowdfunding for Creators"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Artists</strong>"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://seedandspark.com/\" target=\"_blank\" rel=\"noopener\"><strong>Seed&amp;Spark</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Writers</strong>"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://inkubate.com/\" target=\"_blank\" rel=\"noopener\"><strong>Inkubate</strong></a>"
+    }
+   ]
+  }
+ ],
+ "83137145": [
+  {
+   "type": "paragraph",
+   "html": "These funding programs, grants, accelerators, and resource directories are tailored to specific industries or professional groups. Whether you’re building a startup in cybersecurity, working in the arts, or launching a food truck, you’ll find curated support opportunities below."
+  },
+  {
+   "type": "heading",
+   "text": "Applied Generative AI"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Capria Ventures",
+     "href": "https://capria.vc/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Arts &amp; Artists"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Entertainment Community Fund (Emergency Resources)",
+     "href": "https://entertainmentcommunity.org/"
+    },
+    {
+     "label": "WAM Coalition Funding Resources",
+     "href": "https://www.womenartsmediacoalition.org/funding-resources"
+    },
+    {
+     "label": "WomenArts Emergency Funds – All Art Forms",
+     "href": "https://www.womenarts.org/funding-resources/emergencyfunds/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Consumer Brands, Healthtech &amp; Sustainable Commerce"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "XRC Ventures",
+     "href": "https://xrcventures.com/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Cybersecurity Startups"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Dreamit Ventures",
+     "href": "https://www.dreamit.com/#blog-events-homepage"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Exporting"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "U.S. Trade.gov – Let Our Experts Help",
+     "href": "https://www.trade.gov/let-our-experts-help"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Healthcare IT Companies"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Blueprint Health Accelerator",
+     "href": "https://www.blueprinthealth.org/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Home Service Businesses"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Jobber Grants",
+     "href": "https://www.getjobber.com/grants/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Manufacturing"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Manufacturing Extension Partnership (MEP) – Find Your Local MEP Center",
+     "href": "https://ws680.nist.gov/mepmeis/FindYourLocalCenter.aspx"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Restaurant Businesses"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Feed the Soul Foundation",
+     "href": "https://feedthesoulfou.org/restaurant-business-development/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Software, Hardware, Life Sciences, and Robotics"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "AlphaLab",
+     "href": "https://www.alphalab.org/"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Tech &amp; Streaming Entrepreneurs"
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Camp by Betaworks",
+     "href": "https://www.betaworks.com/camp"
+    },
+    {
+     "label": "Tech Job Listings",
+     "href": "https://www.ttecjobs.com/en"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Trade Training"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Workforce Pell Grant</strong>"
+  },
+  {
+   "type": "paragraph",
+   "html": "<strong>Starting July 1, 2026</strong>, the Workforce Pell Grant will provide up to $4,310 per year for short-term job training programs as short as 8 weeks."
+  },
+  {
+   "type": "paragraph",
+   "html": "Learn more: <a href=\"https://www.truckinginfo.com/news/federal-proposal-would-allow-pell-grants-for-shorter-term-job-training\" target=\"_blank\" rel=\"noopener\">https://www.truckinginfo.com/news/federal-proposal-would-allow-pell-grants-for-shorter-term-job-training</a>"
+  },
+  {
+   "type": "heading",
+   "text": "Targeted Series (Member-Inspired)"
+  },
+  {
+   "type": "paragraph",
+   "html": "These niche lists were created in response to community members’ needs. They focus on profession- or interest-based support for funding, growth, and mentorship."
+  },
+  {
+   "type": "resources",
+   "items": [
+    {
+     "label": "Artists Series {1.23.25}",
+     "href": "https://docs.google.com/document/d/1WaqZOj7wwvDwgxxiZjr9dCrx_ly6ld2_DxIbnSe6LdI/edit?usp=sharing"
+    },
+    {
+     "label": "Actors and Documentary Series",
+     "href": "https://docs.google.com/document/d/15tY-vw58xCwEduT2iB937jKAY1-IpMpQbayJztAP3FM/edit?usp=sharing"
+    },
+    {
+     "label": "Musicians Series {1.23.25}",
+     "href": "https://docs.google.com/document/d/14CkKFYnYl19wWn1SaLd08mACMmivvd9W-17Mt7tSbE0/edit?usp=sharing"
+    },
+    {
+     "label": "Photographers Series",
+     "href": "https://docs.google.com/document/d/1IME8OPdqPAM1g7NZjcTcE3PQmdKu4rTwiyGyp70uoq4/edit?usp=sharing"
+    },
+    {
+     "label": "Writers Series",
+     "href": "https://docs.google.com/document/d/1WTy-qLmZjjr5pPUrVhAjkO9vnyE25DzxLM42IXl0Sjg/edit?usp=sharing"
+    },
+    {
+     "label": "Publishers Series",
+     "href": "https://docs.google.com/document/d/1aQvXnu2a21q3-8Ef5ZYDcaaIwqN6nz_Vvk_9mXV4fSE/edit?usp=sharing"
+    },
+    {
+     "label": "Alternative Journalism/Journalism Resources Series - Member Requested, Joel Peterson",
+     "href": "https://docs.google.com/document/d/19AgdOTKevgj_dPBDe8RkMgJag8smt4NJyxlSaLD9_xs/edit?usp=sharing"
+    },
+    {
+     "label": "Teachers Series {9.22.23}",
+     "href": "https://docs.google.com/document/d/13N-h2LZ_4c9vuW89ch6R2Y5zqOhhtmbaa6TAoW6NAjo/edit?usp=sharing"
+    },
+    {
+     "label": "First Responders Series - Member Requested, Fortitude Gifts (Riza Myers)",
+     "href": "https://docs.google.com/document/d/1jYf_AXga358McGal-ROntC3znf7-nSKO6au90arkpsE/edit?usp=sharing"
+    },
+    {
+     "label": "App Building Series",
+     "href": "https://docs.google.com/document/d/1hoeJRJqCexr4jTZXQLW94b82_prJzlG8j8eoKdqlNOg/edit?usp=sharing"
+    },
+    {
+     "label": "Food Truck &amp; Restaurant Series {3.6.25}",
+     "href": "https://docs.google.com/document/d/1cur9fc7fCeb9-amz4s3GnQXUMXhHRdxAr6KZg6CpTIQ/edit?usp=sharing"
+    },
+    {
+     "label": "Inventions Series",
+     "href": "https://docs.google.com/document/d/1XcKzyqIyi7C3auMWcfu8WShMo5GLd5PTgYl_pP7zjDY/edit?usp=sharing"
+    },
+    {
+     "label": "Medical Professionals and Industry Resources Series - Member Requested, Joel Peterson",
+     "href": "https://docs.google.com/document/d/10I5MiIeHkYOUX18vuMRWAXat-Vd06P4ZWNq0qiBIvEM/edit?usp=sharing"
+    },
+    {
+     "label": "Social Media Influencers Series (Member Inspired Series - Eric Byak)",
+     "href": "https://docs.google.com/document/d/1QMkcdatnsv1hJ6URV8Icfq9A7uSpY0thnlqfF0GqJzA/edit?usp=sharing"
+    },
+    {
+     "label": "Transportation Logistics Series - Member Requested, Carol Metz",
+     "href": "https://docs.google.com/document/d/13l0rm0znAJzXpvYmrQbdowEJAqVVXSvkDnxkh68SxCk/edit?usp=sharing"
+    },
+    {
+     "label": "Truckers Resources Series {6.1.24}",
+     "href": "https://docs.google.com/document/d/16KLtW37P5oXfYyQwkf23RumWOe2P2AmA0l83teK5pgM/edit?usp=sharing"
+    },
+    {
+     "label": "Website Building Series {5.31.24}",
+     "href": "https://docs.google.com/document/d/1eZ-DDX-MnA5FlI7wUPb3pirFfFQCfpXIeZsku_0eNyA/edit?usp=sharing"
+    }
+   ]
+  }
+ ],
+ "83645851": [
+  {
+   "type": "paragraph",
+   "html": "Being a woman in business comes with unique challenges—but also incredible opportunities. Across the U.S. and beyond, there are grants, fellowships, loans, and programs designed specifically to <strong>support women-owned businesses</strong> at every stage. Whether you're launching a startup, growing your boutique, or leading in tech—there’s help waiting for you."
+  },
+  {
+   "type": "paragraph",
+   "html": "Here’s your curated guide to funding, certifications, and resources built to help <strong>female founders thrive</strong>."
+  },
+  {
+   "type": "heading",
+   "text": "Women’s Business Centers (WBCs)"
+  },
+  {
+   "type": "paragraph",
+   "html": "These <strong>SBA-backed centers</strong> offer free or low-cost training, business counseling, and mentorship tailored to women entrepreneurs. Whether you're starting out or scaling up, they can guide you through business plans, funding prep, and more."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.sba.gov/local-assistance/resource-partners/womens-business-centers\" target=\"_blank\" rel=\"noopener\"><strong>Find Your Local WBC</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "General Grants for Women-Owned Businesses"
+  },
+  {
+   "type": "paragraph",
+   "html": "These grant programs are open to women entrepreneurs across industries. Some run year-round, others are seasonal—so be sure to check deadlines!"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.ifundwomen.com/\" target=\"_blank\" rel=\"noopener\"><strong>IFundWomen</strong></a> – Crowdfunding meets grants. Plus, use their <a href=\"https://storage.googleapis.com/ifw-drupal-files/2023-08/Grant%20Planner%20+%20Grant%20Tracker.pdf\" target=\"_blank\" rel=\"noopener\">Grant Planner &amp; Tracker</a> to stay organized."
+    },
+    {
+     "html": "<a href=\"https://ambergrantsforwomen.com/about-us/\" target=\"_blank\" rel=\"noopener\"><strong>Amber Grant Foundation</strong></a> – Monthly grants for women-owned businesses. <em>(Small $15 fee.)</em>"
+    },
+    {
+     "html": "<a href=\"https://www.cartierwomensinitiative.com/\" target=\"_blank\" rel=\"noopener\"><strong>Cartier Women’s Initiative</strong></a> – Global support for early-stage, impact-driven women entrepreneurs."
+    },
+    {
+     "html": "<a href=\"https://www.att.com/shesconnected/\" target=\"_blank\" rel=\"noopener\"><strong>She’s Connected by AT&amp;T</strong></a> – Resources and funding to help women grow."
+    },
+    {
+     "html": "<a href=\"https://foundersfirstcdc.org/kitty-fund\" target=\"_blank\" rel=\"noopener\"><strong>Kitty Fund Mompreneur Grant</strong></a> – For moms running small businesses."
+    },
+    {
+     "html": "<a href=\"https://theboundlessfuturesfoundation.submittable.com/submit\" target=\"_blank\" rel=\"noopener\"><strong>Boundless Futures Foundation</strong></a> – Grants for women making an impact."
+    },
+    {
+     "html": "<a href=\"https://galaxyofstars.org/galaxy-grants/\" target=\"_blank\" rel=\"noopener\"><strong>Galaxy Grants</strong></a> – Funding for women and minority business owners."
+    },
+    {
+     "html": "<a href=\"https://www.enthusefoundation.org/grant-program\" target=\"_blank\" rel=\"noopener\"><strong>Enthuse Foundation Grant</strong></a> – Focused on women in food, beverage, and consumer goods."
+    },
+    {
+     "html": "<a href=\"https://www.womenfoundersnetwork.org/about-fast-pitch\" target=\"_blank\" rel=\"noopener\"><strong>Fast Pitch | Women Founders Network</strong></a> – Pitch competition with cash prizes."
+    },
+    {
+     "html": "<a href=\"https://themamaladder.com/grant\" target=\"_blank\" rel=\"noopener\"><strong>HIGH FIVE Grant for Moms</strong></a> – Business grants designed for mothers."
+    },
+    {
+     "html": "<a href=\"https://www.toryburchfoundation.org/fellows/\" target=\"_blank\" rel=\"noopener\"><strong>Tory Burch Foundation Fellowship</strong></a> – Grant plus a year-long support program."
+    },
+    {
+     "html": "<a href=\"https://www.blockadvisors.com/fund-her-future-small-business-grants/\" target=\"_blank\" rel=\"noopener\"><strong>Fund Her Future Grant</strong></a> – For growth-ready women-owned businesses."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Latina Entrepreneurs | Loan &amp; Funding Opportunities"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.prnewswire.com/news-releases/jennifer-lopez-partners-with-grameen-america-to-accelerate-its-goal-to-deploy-14-billion-in-loan-capital-to-600-000-low-income-latina-entrepreneurs-by-2030--301565130.html\" target=\"_blank\" rel=\"noopener\"><strong>Grameen America &amp; Jennifer Lopez Partnership</strong></a> – Microloans and support for Latina entrepreneurs."
+    },
+    {
+     "html": "<a href=\"https://app.santanderx.com/calls/csb12\" target=\"_blank\" rel=\"noopener\"><strong>Santander X</strong></a> – Global entrepreneurship programs."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Black-Owned Women Businesses | Grants &amp; Pitch Programs"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://15percentpledge.org/grant-dream-makers\" target=\"_blank\" rel=\"noopener\"><strong>Fifteen Percent Pledge Grant</strong></a> – Supports Black female founders in retail."
+    },
+    {
+     "html": "<a href=\"https://wavesofchangegrant.com/about-the-grant#/\" target=\"_blank\" rel=\"noopener\"><strong>Waves of Change Grant</strong></a> – For Black women entrepreneurs."
+    },
+    {
+     "html": "<a href=\"https://www.hersuitespot.com/herrise/\" target=\"_blank\" rel=\"noopener\"><strong>HerRise MicroGrant</strong></a> – Monthly microgrants for women of color."
+    },
+    {
+     "html": "<a href=\"https://www.blackgirlventures.org/bgv-pitch\" target=\"_blank\" rel=\"noopener\"><strong>Black Girl Ventures Pitch</strong></a> – Pitch competitions and funding."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Women-Owned Business Certifications"
+  },
+  {
+   "type": "paragraph",
+   "html": "Certification can unlock <strong>corporate contracts</strong>, <strong>supplier diversity programs</strong>, and <strong>federal opportunities</strong>."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://wosb.certify.sba.gov/\" target=\"_blank\" rel=\"noopener\"><strong>WOSB Certification (SBA)</strong></a> – For government contracting."
+    },
+    {
+     "html": "<a href=\"https://www.wbenc.org/certification/\" target=\"_blank\" rel=\"noopener\"><strong>WBENC Certification</strong></a> – Corporate recognition. <em>(Fee applies.)</em>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Alternative Loans for Women Entrepreneurs"
+  },
+  {
+   "type": "paragraph",
+   "html": "Looking for flexible funding beyond grants?"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<a href=\"https://www.grameenamerica.org/\" target=\"_blank\" rel=\"noopener\"><strong>Grameen America</strong></a> – Microloans and community support."
+    },
+    {
+     "html": "<a href=\"https://www.grameenamerica.org/request-a-loan\" target=\"_blank\" rel=\"noopener\"><strong>Loan Inquiry</strong></a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Industry-Specific Grants"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Hairstyling &amp; Beauty</strong>: <a href=\"https://beygood.org/cecred/\" target=\"_blank\" rel=\"noopener\">Cécred x BeyGOOD Salon Grant</a>"
+    },
+    {
+     "html": "<strong>Retail &amp; Product-Based</strong>: <a href=\"https://www.faire.com/small-business-grant\" target=\"_blank\" rel=\"noopener\">$5,000 Small Business Grant | Faire</a>"
+    },
+    {
+     "html": "<strong>Jewelry Designers</strong>: <a href=\"https://grant.halsteadbead.com/\" target=\"_blank\" rel=\"noopener\">The Halstead Grant</a>"
+    },
+    {
+     "html": "<strong>Tech Entrepreneurs</strong>: <a href=\"https://1871.com/wmntech-leaders/\" target=\"_blank\" rel=\"noopener\">WMNtech Leaders | 1871</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Your Next Move"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "label": "Choose",
+     "html": "Choose <strong>2–3 grants or programs</strong> that align with your business type or background."
+    },
+    {
+     "label": "Track",
+     "html": "Start your <strong>grant tracker</strong>—use IFundWomen’s planner or a simple spreadsheet."
+    },
+    {
+     "label": "Certify",
+     "html": "If applicable, begin your <strong>WOSB</strong> or <strong>WBENC certification</strong> process to open long-term opportunities."
+    }
+   ]
+  },
+  {
+   "type": "tip",
+   "html": "Remember—these resources aren’t just about funding. Many come with <strong>mentorship</strong>, <strong>visibility</strong>, and <strong>connections</strong> that fuel growth far beyond the initial support."
+  },
+  {
+   "type": "paragraph",
+   "html": "You’ve got this. Let’s turn your vision into reality!"
+  }
+ ],
+ "83646154": [
+  {
+   "type": "paragraph",
+   "html": "Did you know that the U.S. government is the <strong>largest buyer of goods and services</strong> in the world? Every year, billions of dollars in contracts are awarded to small businesses—just like yours. Whether you offer products, services, consulting, or manufacturing, <strong>government contracting</strong> can open a stable and lucrative revenue stream."
+  },
+  {
+   "type": "paragraph",
+   "html": "But breaking into federal, state, or local contracting requires understanding the process, registering correctly, and knowing where to look. This guide will walk you through the <strong>essential steps and tools</strong> to get started."
+  },
+  {
+   "type": "heading",
+   "text": "1. Register Your Business on SAM.gov (Your First Step)"
+  },
+  {
+   "type": "paragraph",
+   "html": "Before you can bid on federal contracts or subcontracts, you must <strong>register your business on SAM.gov</strong>. This is the official database where all contractors are listed."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Entity Checklist</strong> — Before registering, download the Entity Checklist (PDF) on SAM.gov to prepare all required documents."
+    },
+    {
+     "html": "<strong>Search Contracts</strong> — Even before you’re fully registered, browse available contracts to get familiar with opportunities."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Start here: <a href=\"https://sam.gov/\" target=\"_blank\" rel=\"noopener\">SAM.gov Registration &amp; Search</a>"
+  },
+  {
+   "type": "heading",
+   "text": "2. Know Your Codes: NAICS, PSC &amp; UNSPSC"
+  },
+  {
+   "type": "paragraph",
+   "html": "Government agencies use specific codes to classify businesses and their services/products. You’ll need these during registration and bidding."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>NAICS Codes</strong> — The North American Industry Classification System assigns a 6-digit number to describe your industry."
+    },
+    {
+     "html": "The following resources have both free and for-cost services. Please stick to the free resources: <a href=\"https://www.naics.com/\" target=\"_blank\" rel=\"noopener\">https://www.naics.com/</a> and <a href=\"https://naicscode.com/\" target=\"_blank\" rel=\"noopener\">https://naicscode.com/</a>"
+    },
+    {
+     "html": "<strong>PSC Codes</strong> — Product Service Codes (PSC) describe exactly what goods or services you’re offering."
+    },
+    {
+     "html": "<strong>UNSPSC Codes</strong> — Some agencies may also require UNSPSC Codes for additional classification."
+    }
+   ]
+  },
+  {
+   "type": "tip",
+   "html": "Make sure you’ve identified the correct codes before completing your SAM registration."
+  },
+  {
+   "type": "heading",
+   "text": "3. Get Support from APEX Accelerators"
+  },
+  {
+   "type": "paragraph",
+   "html": "You don’t have to navigate government contracting alone. <strong>APEX Accelerators</strong> (formerly PTACs) offer <strong>free counseling</strong> to help small businesses understand and succeed in federal contracting."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Learn how to bid</strong>"
+    },
+    {
+     "html": "<strong>Understand compliance rules</strong>"
+    },
+    {
+     "html": "<strong>Get help with certifications</strong>"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "html": "Find a counselor near you: <a href=\"https://www.apexaccelerators.us/\" target=\"_blank\" rel=\"noopener\">APEX Accelerators</a>"
+  },
+  {
+   "type": "heading",
+   "text": "4. Use SBA Tools &amp; Programs"
+  },
+  {
+   "type": "paragraph",
+   "html": "The U.S. Small Business Administration (SBA) offers powerful tools to help you access set-aside contracts and navigate the system."
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Size Standards Tool</strong> — Check if your business qualifies as a “small business” for federal contracting purposes. <a href=\"https://www.sba.gov/federal-contracting/contracting-guide/size-standards/size-standards-tool\" target=\"_blank\" rel=\"noopener\">Use the Tool</a>"
+    },
+    {
+     "html": "<strong>SBA Contracting Assistance Programs</strong> — Explore programs like <strong>8(a)</strong>, <strong>HUBZone</strong>, and <strong>WOSB</strong> certifications to access exclusive contract opportunities. <a href=\"https://www.sba.gov/federal-contracting/contracting-assistance-programs\" target=\"_blank\" rel=\"noopener\">Learn More</a>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "5. Payment Systems: PIEE &amp; More"
+  },
+  {
+   "type": "paragraph",
+   "html": "If you’re contracting with the <strong>Department of Defense</strong> or its agencies, you’ll likely need to register on the <strong>Procurement Integrated Enterprise Environment (PIEE)</strong> to receive payments."
+  },
+  {
+   "type": "paragraph",
+   "html": "For other agencies, payment systems will vary—always confirm with the awarding agency which platform to use."
+  },
+  {
+   "type": "heading",
+   "text": "6. Learn the Rules: Federal Acquisition Regulation (FAR)"
+  },
+  {
+   "type": "paragraph",
+   "html": "The <strong>Federal Acquisition Regulation (FAR)</strong> outlines how federal contracts are issued and managed. It’s complex, so reviewing it with an APEX Accelerator counselor is highly recommended."
+  },
+  {
+   "type": "heading",
+   "text": "7. Research &amp; Forecasting Tools"
+  },
+  {
+   "type": "paragraph",
+   "html": "Get ahead by knowing what agencies are buying and who they’re buying from:"
+  },
+  {
+   "type": "list",
+   "items": [
+    {
+     "html": "<strong>Agency Recurring Procurement Forecasts</strong> — See what agencies plan to purchase in upcoming cycles."
+    },
+    {
+     "html": "<strong>USA Spending</strong> — Track past contracts: who won them and for how much."
+    },
+    {
+     "html": "<strong>D-U-N-S Number</strong> — While no longer required for SAM.gov, many other agencies still ask for a D-U-N-S number. It’s like a Social Security number for your business, so it’s good to have on hand."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "text": "Your Next Move"
+  },
+  {
+   "type": "steps",
+   "items": [
+    {
+     "label": "",
+     "html": "Gather your documents using the <strong>SAM.gov Entity Checklist</strong>."
+    },
+    {
+     "label": "",
+     "html": "Identify your <strong>NAICS</strong>, <strong>PSC</strong>, and (if needed) <strong>UNSPSC codes</strong>."
+    },
+    {
+     "label": "",
+     "html": "Register on <strong>SAM.gov</strong> and book a free session with your local <strong>APEX Accelerator</strong> counselor."
+    },
+    {
+     "label": "",
+     "html": "Explore <strong>SBA’s contracting assistance programs</strong> to see if you qualify for set-asides."
+    }
+   ]
+  },
+  {
+   "type": "tip",
+   "html": "Government contracting can feel overwhelming at first, but with the right steps and support, it becomes a <strong>powerful way to grow your business</strong>."
+  },
+  {
+   "type": "paragraph",
+   "html": "Once you’re registered and familiar with the process, start bidding on smaller contracts to build experience, and watch new doors open."
   }
  ]
 }
