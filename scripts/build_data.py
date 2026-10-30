@@ -133,9 +133,7 @@ def library_data(lib, items):
             d = drive.get(it['code'].replace(' ', '_'))
             fid = d['id'] if d else None
         if fid:
-            # drive.usercontent serves the file itself with an attachment header, so the
-            # browser saves it straight away instead of stopping at Google's preview page
-            it['download'] = f"https://drive.usercontent.google.com/download?id={fid}&export=download&confirm=t"
+            it['download'] = f"https://drive.google.com/uc?export=download&id={fid}"
             it['preview'] = f"https://drive.google.com/file/d/{fid}/preview"
         elif it['pdfs']:
             it['download'] = it['pdfs'][0]['href']; it['preview'] = it['pdfs'][0]['href']
@@ -160,7 +158,7 @@ def library_data(lib, items):
             'spaceUrl': f"https://lesko-help-2.mn.co/spaces/{lib['spaceId']}", 'collection': '',
             'url': f"https://drive.google.com/file/d/{fid}/view" if fid else '', 'summary': x.get('summary', ''),
             'pdfs': [], 'drive': [], 'links': [], 'video': None,
-            'download': f"https://drive.usercontent.google.com/download?id={fid}&export=download&confirm=t" if fid else None,
+            'download': f"https://drive.google.com/uc?export=download&id={fid}" if fid else None,
             'preview': f"https://drive.google.com/file/d/{fid}/preview" if fid else None,
             'isLesson': False, 'lessonNo': None,
         })
