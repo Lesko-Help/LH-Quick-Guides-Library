@@ -140,7 +140,7 @@
       </div>
       <div class="right">
         ${savedCount(it.id) ? `<span class="saved-pill" title="Saved inside this state">${ICON.star}${savedCount(it.id)}</span>` : ''}
-        ${it.hasPdf ? `<a class="icon-btn" href="${esc(it.download)}" target="_blank" rel="noopener" title="Download PDF" aria-label="Download PDF">${ICON.download}</a>` : ''}
+        ${it.hasPdf ? `<a class="icon-btn" href="${esc(it.download)}" download target="_blank" rel="noopener" title="Download PDF" aria-label="Download PDF">${ICON.download}</a>` : ''}
         <button class="icon-btn star" type="button" data-star="${it.id}" aria-pressed="${marked}" title="${marked ? 'Remove bookmark' : 'Bookmark'}" aria-label="Bookmark">${marked ? ICON.star : ICON.starOutline}</button>
       </div>
     </article>`;
@@ -260,7 +260,7 @@
     const marked = !!store.bookmarks[id];
     $('#viewer-title').innerHTML = `<span class="swatch" style="${styleVars(it.topic)}">${st(it.topic).icon}</span><span class="t">${titleHTML(it)}</span>`;
     $('#viewer-actions').innerHTML = `
-      ${it.hasPdf ? `<a class="btn primary small" href="${esc(it.download)}" target="_blank" rel="noopener">${ICON.download} Download PDF</a>` : ''}
+      ${it.hasPdf ? `<a class="btn primary small" href="${esc(it.download)}" download target="_blank" rel="noopener">${ICON.download} Download PDF</a>` : ''}
       <button class="icon-btn star" type="button" data-star="${id}" aria-pressed="${marked}" title="${marked ? 'Remove bookmark' : 'Bookmark'}" aria-label="Bookmark">${marked ? ICON.star : ICON.starOutline}</button>`;
     $('#viewer-body').innerHTML = `<div class="stage" id="stage" style="${styleVars(it.topic)}">${stageHTML(it)}</div>`;
     const v = $('#viewer'), scrim = $('#scrim');
