@@ -14,7 +14,7 @@
     },
     {
       "key": "medicare",
-      "label": "Medicare",
+      "label": "Medicare & Medicaid",
       "color": "#0040B8",
       "icon": "shield"
     },
@@ -120,5 +120,13 @@
     "103398237": "Copay and treatment grants, cancer-specific support from the American Cancer Society and CancerCare, rare disease help, and free travel, lodging and clinical trials.",
     "103398218": "Eldercare Locator and Caregiver Action Network, getting paid through Medicaid self-directed care or the VA, paid family leave, respite care and caregiver support groups.",
     "103398205": "Emergency vet bill grants from RedRover and Frankie's Friends, help for low-income pet owners, low-cost clinics and spay/neuter, and pet food banks."
-  }
+  },
+  "extraItems": [
+    {
+      "code": "HC 17",
+      "topic": "medicare",
+      "title": "Medicaid Help & Benefits",
+      "summary": "How to apply through your state or HealthCare.gov, coverage for children through CHIP, Medicaid together with Medicare, keeping your coverage at renewal, and the new rules from January 2027: the 80-hour work rule, who is exempt, and renewing every six months."
+    }
+  ]
 }
